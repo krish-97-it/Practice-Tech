@@ -1,0 +1,445 @@
+[
+    {
+        "CityName" : "Chennai",
+        "StateName" : "Tamil Nadu",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d283272.09909523674!2d80.21735463745121!3d13.054933643037796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbyju&#39;s%20learning%20center%20chennai!5e0!3m2!1sen!2sin!4v1643958364868!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Vadapalani",
+                "AddressOne" : ["Door No:17,17A, & 18, Sardar Patel Road", "Adyar, Chennai, Tamil Nadu-600020"],
+                "MapAddress" : ["https://goo.gl/maps/sPKUSdqR5PPN5o4B7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d248753.72273758997!2d80.2101466!3d13.049867!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a526752e0764ba9%3A0x8806a99387c2eba4!2sBYJU&#39;S%20Learning%20Centre%20-%20Vadapalani%20189%2C%203rd%20floor%20NSK%20Salai%20Rd%2C%20opposite%20Kamala%20Theatre%2C%20Vadapalani%20Chennai%2C%20Tamil%20Nadu%20600026!3m2!1d13.049866999999999!2d80.2101466!5e0!3m2!1sen!2sin!4v1644066342971!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Alwarpet",
+                "AddressOne" : ["Samsung SmartPlaza-Vijay Electronics, Old No 158, New, 514, TT Krishnamachari Rd, Alwarpet, Chennai, Tamil Nadu-600018"],
+                "MapAddress" : ["https://goo.gl/maps/kFywxfRovyvLgHdR7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d170894.26870463658!2d80.25094246835116!3d13.040853951435942!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a526788a863b867%3A0xc3a7b8b6dfc22956!2sBYJU&#39;S%20Learning%20Centre%20-%20Alwarpet%20Samsung%20SmartPlaza%20-%20Vijay%20Electronics%2C%20Old%20No%20158%2C%20New%20514%2C%20TT%20Krishnamachari%20Rd%2C%20Alwarpet%20Chennai%2C%20Tamil%20Nadu%20600018!3m2!1d13.0336298!2d80.2535217!5e0!3m2!1sen!2sin!4v1644066692811!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Porur",
+                "AddressOne" : ["New No 2/Old, 46, Chetty St, Porur, Chennai, Tamil Nadu-600116"],
+                "MapAddress" : ["https://goo.gl/maps/RMPt7GDCu1zQibSZ8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d21362.33038842436!2d80.16161090224405!3d13.034520467134213!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a5261c1b2a15e2b%3A0xbf88797e402d320f!2sBYJU&#39;S%20Tuition%20Centre%20-%20Porur%20New%20No%202%2FOld%2046%2C%20Chetty%20St%2C%20Porur%20Chennai%2C%20Tamil%20Nadu%20600116!3m2!1d13.0338646!2d80.1596249!5e0!3m2!1sen!2sin!4v1644066543887!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Kolkata",
+        "StateName" : "West Bengal",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d284407.44574563083!2d88.4122292059682!3d22.606874638263154!3m2!1i1024!2i768!4f13.1!2m1!1sByjus%20Parkstreet!5e0!3m2!1sen!2sin!4v1643959976048!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Park Street",
+                "AddressOne" : ["3rd Floor, Saket Building, 44, Park St, Beniapukur, Kolkata, West Bengal-700016"],
+                "MapAddress" : ["https://goo.gl/maps/2pHqgwrjQXKMS1np6"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d235829.19896485851!2d88.3587626!3d22.5479939!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a0277dfa443c4ed%3A0x970102c866b55039!2sBYJU&#39;S%20Tuition%20Centre%20-%20Park%20Street%203rd%20Floor%2C%20Saket%20Building%2044%2C%20Park%20St%2C%20Mullick%20Bazar%2C%20Beniapukur%20Kolkata%2C%20West%20Bengal%20700016!3m2!1d22.547993899999998!2d88.35876259999999!5e0!3m2!1sen!2sin!4v1644065732297!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Rabindra Sarobar",
+                "AddressOne" : ["Thapar House, #163, SP Mukherjee Road, Rabindra Sarobar, Kolkata, 700026"],
+                "MapAddress" :["https://goo.gl/maps/4DrtRucXsQBQNtmi7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.9686637203486!2d88.34621296507213!3d22.51042706452121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027105538ea4df%3A0x298d37c438fa0ac9!2sThapar%20House!5e0!3m2!1sen!2sin!4v1644065959161!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "New Delhi",
+        "StateName" : "Delhi",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d448058.44937586!2d77.19405641969422!3d28.675983985224562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbyju&#39;s%20learning%20center%20delhi!5e0!3m2!1sen!2sin!4v1643956407365!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Model Town",
+                "AddressOne" : ["Plot No. B 3 UGF (half)& 1st Entire Floor Gujrawala Town, Model Town 3rd Main Rd, New Delhi, 110009"],
+                "MapAddress" : ["https://goo.gl/maps/RdMm1WUgZjygMhFV8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d223968.87025821928!2d77.1895584!3d28.7041933!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390d03b9333808fd%3A0x73be9ce9f759d290!2sBYJU&#39;S%20Learning%20Centre%20-%20Model%20Town%20Plot%20No.%20B%203%20UGF%20(half)%26%201st%20Entire%20Floor%20Gujrawala%20Town%20Model%20Town%203rd%20Main%20Rd%2C%20New%20Delhi%20Delhi%20110009!3m2!1d28.7041933!2d77.1895584!5e0!3m2!1sen!2sin!4v1644081819589!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Pitam Pura",
+                "AddressOne" : ["Plot No. FD 5, Ground & 1st floor, near Vishal Mega Mart, Pitam Pura, New Delhi, Delhi 110034"],
+                "MapAddress" : ["https://goo.gl/maps/NK6sK1VYeh47mJuM9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d55992.701467426625!2d77.1327094!3d28.703289!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390d035e5c8663b3%3A0xedb85321c0322103!2sBYJU&#39;S%20Tuition%20Centre%20-%20Pitampura%20Plot%20No.%20FD%205%2C%20Ground%20%26%201st%20floor%20near%20Vishal%20Mega%20Mart%2C%20Pitam%20Pura%20New%20Delhi%2C%20Delhi%20110034!3m2!1d28.703288999999998!2d77.1327094!5e0!3m2!1sen!2sin!4v1644081706899!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Rohini Sector 11",
+                "AddressOne" : ["3rd Floor, Garg Trade Centre, Block No. 7 Anushka Tower - 2, Rohini, Sector 11, New Delhi, 110085"],
+                "MapAddress" : ["https://goo.gl/maps/uAfLPhd8zRKgV9R17"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d447806.2098151786!2d77.1132908!3d28.7349028!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390d018853f7f89d%3A0xae0bd4ad4251ca37!2sBYJU&#39;S%20Tuition%20Centre%20-%20Rohini%20Sector%2011%203rd%20Floor%2C%20Garg%20Trade%20Centre%2C%20Block%20No.%207%20Anushka%20Tower%20-%202%2C%20Rohini%20Sector%2011%20New%20Delhi%2C%20Delhi%20110085!3m2!1d28.7349028!2d77.1132908!5e0!3m2!1sen!2sin!4v1644081247212!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Delhi",
+        "StateName" : "Delhi",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d448058.44937586!2d77.19405641969422!3d28.675983985224562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbyju&#39;s%20learning%20center%20delhi!5e0!3m2!1sen!2sin!4v1643956407365!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Dwarka",
+                "AddressOne" : ["Plot No. 46, 12B, Dwarka Sector-3, Dwarka, Delhi, 110075"],
+                "MapAddress" : ["https://goo.gl/maps/hRPd4KpDYh5AG5o5A"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d120480.9614522952!2d77.0473556231079!3d28.606783741023367!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390d1bf8dc465d9b%3A0x3e8c2f5805f5b2ba!2sBYJU&#39;S%20Learning%20Centre%20-%20Dwarka%20Plot%20No.%2046%2012B%2C%20Dwarka%20Sector-3%2C%20Dwarka%20Delhi%2C%20110075!3m2!1d28.605747899999997!2d77.0428544!5e0!3m2!1sen!2sin!4v1644054197377!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Rajouri Garden",
+                "AddressOne" : ["3rd Floor, A-1/6, Ring Rd, Block A2, Block A, Rajouri Garden, Delhi, 110027"],
+                "MapAddress" : ["https://goo.gl/maps/7DtbakGBTK7YtwMc8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.413291844707!2d77.12617177712715!3d28.647341338097256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d033b9f73da27%3A0x4cdcb51574563747!2sBYJU&#39;S%20Learning%20Centre%20-%20Rajouri%20Garden!5e0!3m2!1sen!2sin!4v1644053992545!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Dilshad Garden",
+                "AddressOne" : ["Plot No. ZB 9,10,11/487 Entire 2nd Floor, Main, Grand Trunk Rd, Dilshad Garden, Delhi, 110095"],
+                "MapAddress" : ["https://goo.gl/maps/CGXLZCsrpGGGsji69"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d224028.35254636387!2d77.3170429!3d28.6763918!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390cfb3222e6b689%3A0xf03c679b056f9911!2sBYJU&#39;S%20Learning%20Centre%20-%20Dilshad%20Garden%20Plot%20No.%20ZB%209%2C10%2C11%2F487%20Entire%202nd%20Floor%20Main%2C%20Grand%20Trunk%20Rd%2C%20Dilshad%20Garden%20Delhi%2C%20110095!3m2!1d28.676391799999998!2d77.31704289999999!5e0!3m2!1sen!2sin!4v1644054415540!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Defence Colony",
+                "AddressOne" : ["2nd Floor, E-12, Ring Road, Defence Colony, New Delhi – 110024"],
+                "MapAddress" : ["https://goo.gl/maps/E413wV37gB1WtobU7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d7008.206734123537!2d77.2293329!3d28.5666586!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390ce25ac8ffffff%3A0x900b4894a977e9ea!2sIndiana%20University%20India%20office%20First%20Floor%20E-12%2C%20Block%20E%2C%20Defence%20Colony%20New%20Delhi%2C%20Delhi%20110024!3m2!1d28.5666586!2d77.2293329!5e0!3m2!1sen!2sin!4v1644065391320!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Bengaluru",
+        "StateName" : "Karnataka",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d341791.69265692786!2d77.62411658496791!3d13.03857013542472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBYJU%E2%80%99S%20Tuition%20Center%20%E2%80%93%20Bengalore!5e0!3m2!1sen!2sin!4v1643994921611!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Whitefield",
+                "AddressOne" : ["2nd Floor, Sri Narayani Arcade, ITPL Main Road, Above BATA showroom, Kundanahalli, Brookefield, Bangalore – 560066"],
+                "MapAddress" : ["https://goo.gl/maps/gZHSW8uobNkKMjPL7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe": ["https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d486.02346824632696!2d77.7160333!3d12.9598351!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae123b8fc66677%3A0x1dd606b96dad617f!2sSri%20Narayani%20Arcade!5e0!3m2!1sen!2sin!4v1643105045625!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Richmond Circle",
+                "AddressOne" : ["No. 76/1, 1st Floor, Mission Road, Next to Canara Bank, Sampangi Rama Nagara, Bangalore, Karnataka 560027"],
+                "MapAddress" : ["https://goo.gl/maps/S1FNYauqkdfb4Rbe7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d1944.0740101452625!2d77.5914413!3d12.9623786!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae153ca798f331%3A0x8a614f6de9d69c3c!2sBYJU&#39;S%20Tuition%20Centre%20-%20Richmond%20Circle%20No.76%2F1%2C%201st%20Floor%20Mission%20Rd%2C%20next%20to%20Canara%20Bank%2C%20Sampangi%20Rama%20Nagara%20Bengaluru%2C%20Karnataka%20560027!3m2!1d12.9623786!2d77.5914413!5e0!3m2!1sen!2sin!4v1643992424291!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Rajarajeshwari Nagar",
+                "AddressOne" : ["1st Floor, Raghavendra Arcade, Jawaharlal Nehru Road, Above KFC, BEML Layout, 4th Stage, RR Nagar, Bangalore, Karnataka 560098"],
+                "MapAddress" : ["https://goo.gl/maps/FJuDVUUwdDh6DBfYA"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d7777.809329727852!2d77.5208656!3d12.9138486!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3f9cb7c5ed07%3A0xec18cdf98ff16c56!2sBYJU&#39;S%20Tuition%20Centre%20-%20Rajarajeshwari%20Nagar%201st%20Floor%2C%20Raghavendra%20Arcade%20Jawaharlal%20Nehru%20Rd%2C%20above%20KFC%2C%20BEML%20Layout%2C%204th%20Stage%2C%20RR%20Nagar%20Bengaluru%2C%20Karnataka%20560098!3m2!1d12.9138486!2d77.5208656!5e0!3m2!1sen!2sin!4v1643992811312!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "HSR Layout",
+                "AddressOne" : ["1, 3rd Floor, 14th Main Road, Sector 7, HSR Layout, Above Mc Donald’s, Bangalore, Karnataka 560102"],
+                "MapAddress" : ["https://goo.gl/maps/Nn1JbaT2JMRUCQu48"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d62222.55282736619!2d77.63401558833007!3d12.913534582658485!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae15560d440df3%3A0xfbc749a4125a2fae!2sbyjus%20learning%20center%2014th%20Main%20Rd%20Sector%207%2C%20HSR%20Layout%20Bengaluru%2C%20Karnataka%20560102!3m2!1d12.912028699999999!2d77.6379638!5e0!3m2!1sen!2sin!4v1643993293569!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Mahalakshmi Layout",
+                "AddressOne" : ["1st Floor New Municipal No.52 (Old No. 272), BBMP Ward, 10, 12th Cross Rd, Mahalakshmipuram Layout, Bengaluru, 560086"],
+                "MapAddress" : ["https://goo.gl/maps/c4wiPrfKcBgGwwsk8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d206197.23939470222!2d77.56559240912846!3d13.025814347748316!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3d86811b8b81%3A0x623364a13e2ad435!2sBYJU&#39;S%20Tuition%20Centre%20-%20Mahalakshmi%20Layout%201st%20Floor%20New%20Municipal%20No.52%20(Old%20No.%20272)%2C%20BBMP%20Ward%2010%2C%2012th%20Cross%20Rd%2C%20Mahalakshmipuram%20Layout%2C%20Mahalakshmi%20Layout%20Bengaluru%2C%20Karnataka%20560086!3m2!1d13.008113499999999!2d77.5470757!5e0!3m2!1sen!2sin!4v1643995103466!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Vijayanagar",
+                "AddressOne" : ["Second Floor of Square 55 @, 55, 17th Cross Rd, MC Layout, Vijayanagar, Bengaluru, 560040"],
+                "MapAddress" : ["https://goo.gl/maps/NQpASqj84f78mx8Y6"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d248831.0856226506!2d77.5379479!3d12.9727655!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae3d619a36fc65%3A0xa34fad669a83b4ca!2sBYJU&#39;S%20Tuition%20Centre%20-%20Vijayanagar%20Second%20Floor%20of%20Square%2055%20%40%2055%2C%2017th%20Cross%20Rd%2C%20MC%20Layout%2C%20Vijayanagar%20Bengaluru%2C%20Karnataka%20560040!3m2!1d12.9727655!2d77.53794789999999!5e0!3m2!1sen!2sin!4v1643995396961!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Kalyan Nagar",
+                "AddressOne" : ["Premises No.232 & 234, 10th Main, 100 Feet Rd, HRBR Layout 1st Block, Kalyan Nagar, Bengaluru, 560043"],
+                "MapAddress" : ["https://goo.gl/maps/HhJAkeDPfEBvzwc39"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d248785.97134151252!2d77.6530688!3d13.0177819!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae17b3e60a4b37%3A0x5cc521a463eb0b99!2sBYJU&#39;S%20Tuition%20Centre-%20Kalyan%20Nagar%20Premises%20No.232%20%26%20234%2C%2010th%20Main%20100%20Feet%20Rd%2C%20HRBR%20Layout%201st%20Block%2C%20Kalyan%20Nagar%20Bengaluru%2C%20Karnataka%20560043!3m2!1d13.0177819!2d77.6530688!5e0!3m2!1sen!2sin!4v1643996192582!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "JP Nagar",
+                "AddressOne" : ["Premises No. 276, 2nd floor, 15th Cross Rd, 5th Phase, J. P. Nagar, Bengaluru, Karnataka-560078"],
+                "MapAddress" : ["https://goo.gl/maps/U9J8dhbpF7QoPJHb9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d248897.65779431982!2d77.5880272!3d12.9060559!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bae1573e9a069b7%3A0x3c382cdce42b4dc9!2sBYJU&#39;S%20Tuition%20Centre%20-%20JP%20Nagar%20Premises%20No.%20276%2C%202nd%20floor%2015th%20Cross%20Rd%2C%205th%20Phase%2C%20J.%20P.%20Nagar%20Bengaluru%2C%20Karnataka%20560078!3m2!1d12.9060559!2d77.5880272!5e0!3m2!1sen!2sin!4v1643997260875!5m2!1sen!2sin"]
+            }
+
+        ]
+    },
+    {
+        "CityName" : "Ahmedabad",
+        "StateName" : "Gujarat",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d249003.2038200523!2d72.59591913601864!3d23.01245536378666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbyju&#39;s%20learning%20centre%20ahmedabad!5e0!3m2!1sen!2sin!4v1644099157289!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Bopal",
+                "AddressOne" : ["The Retail Park,3019 to 3022 Rajyash city, On main BRTS road, Central, Bopal, Ahmedabad, 380058"],
+                "MapAddress" : ["https://goo.gl/maps/BdRWeKdQCpm7ZETt8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d234994.74650958125!2d72.4706509!3d23.0313746!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x395e9b75a0ae8aa5%3A0xe272c9c1537bc3e8!2sBYJU&#39;S%20Tuition%20Centre%20-%20Bopal%20The%20Retail%20Park%2C3019%20to%203022%20Rajyash%20city%2C%20On%20main%20BRTS%20road%2C%20Central%20Bopal%20Ahmedabad%2C%20Gujarat%20380058!3m2!1d23.0313746!2d72.4706509!5e0!3m2!1sen!2sin!4v1644074117599!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Maninagar",
+                "AddressOne" : ["104-107, 1st Floor, Aatrey Rudra Elegance, near Pran Shankar Hall, Prankunj Society, Maninagar, Ahmedabad, 380008"],
+                "MapAddress" :["https://goo.gl/maps/H1UPViDD2ZpH9rKL9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d235046.63133535147!2d72.5983438!3d23.0015992!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x395e85dbf113dcb5%3A0x2366062d72aacd3!2sBYJU&#39;S%20Tuition%20Centre%20-%20Maninagar%20104-107%2C%201st%20Floor%2C%20Aatrey%20Rudra%20Elegance%20near%20Pran%20Shankar%20Hall%2C%20Prankunj%20Society%2C%20Maninagar%20Ahmedabad%2C%20Gujarat%20380008!3m2!1d23.001599199999998!2d72.5983438!5e0!3m2!1sen!2sin!4v1644074270839!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "SG Highway",
+                "AddressOne" : ["201, Balleshwar square, opp iscon Mall, Sarkhej - Gandhinagar Hwy, Ahmedabad, 380015"],
+                "MapAddress" :["https://goo.gl/maps/ZnzkpsKqK4KETWRW8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d117499.79681571634!2d72.5088752!3d23.0285945!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x395e9b51df186b35%3A0xb5e5ec784b30d5cf!2sBYJU&#39;S%20Tuition%20Centre%20-%20SG%20Highway%20201%2C%20Balleshwar%20square%2C%20opp%20iscon%20Mall%20Sarkhej%20-%20Gandhinagar%20Hwy%20Ahmedabad%2C%20Gujarat%20380015!3m2!1d23.0285945!2d72.50887519999999!5e0!3m2!1sen!2sin!4v1644074520290!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Paldi",
+                "AddressOne" : ["2H67+F68, Paldi Gaam, Paldi, Ahmedabad, Gujarat 380007"],
+                "MapAddress" :["https://goo.gl/maps/phEytwYJTvPSNjzn9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d58757.08149154861!2d72.5707347529925!3d23.012108351451186!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x395e850be3416419%3A0xfee1a9a287f16c47!2sBYJU&#39;S%20Learning%20Centre%20-%20Paldi%202H67%2BF68%20Paldi%20Gaam%2C%20Paldi%20Ahmedabad%2C%20Gujarat%20380007!3m2!1d23.011156999999997!2d72.5630675!5e0!3m2!1sen!2sin!4v1644074686414!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Mumbai",
+        "StateName" : "Maharashtra",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d482572.284796823!2d72.89338711158311!3d19.103445090144227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%20Byjus%20Tution%20Centre%20Mulund!5e0!3m2!1sen!2sin!4v1644076765121!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Goregaon",
+                "AddressOne" : ["Krutarth Jeewan Coperative Housing Society, Lokmanya Tilak Nagar Rd Number 1, Tilak Nagar, Goregaon West, Mumbai, 400104"],
+                "MapAddress" : ["https://goo.gl/maps/eY4WDXXpUvVrKb2a7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d241199.16139580082!2d72.8411857!3d19.1629908!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be7b7abe9a46123%3A0x5302f49cac12da1b!2sBYJU&#39;S%20Learning%20Centre%20-%20Goregaon%20Krutarth%20Jeewan%20Coperative%20Housing%20Society%20Lokmanya%20Tilak%20Nagar%20Rd%20Number%201%2C%20Tilak%20Nagar%2C%20Goregaon%20West%20Mumbai%2C%20Maharashtra%20400104!3m2!1d19.1629908!2d72.8411857!5e0!3m2!1sen!2sin!4v1644078819965!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Navi Mumbai",
+        "StateName" : "Maharashtra",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d241325.21495231698!2d72.88215173616672!3d19.07663845335995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sByjus%20Learning%20Centre%20%E2%80%93%20Navi%20Mumbai!5e0!3m2!1sen!2sin!4v1644080143175!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Navi Mumbai",
+                "AddressOne" : ["Office no. 101,102,103 & 104, Sai Proviso Aashlesha, Plot no. 13,14,15 & 16, Sector 4A, Koper Khairane, Navi Mumbai, 400709"],
+                "MapAddress" : ["https://goo.gl/maps/konv9wz7Xr7St7mq6"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120641.07085995552!2d72.99067228850531!3d19.106187805412745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c0db3c737663%3A0xcd6f63a4b6f90fe0!2sSai%20Proviso%20Aashlesha!5e0!3m2!1sen!2sin!4v1644079820562!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Thane",
+        "StateName" : "Haryana",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d92978.67924130846!2d72.97619622788082!3d19.19189353598165!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be7b9958eda35c9%3A0xef6c15e8f80704bc!2sBYJU&#39;S%20Learning%20Centre%20-%20Naupada%20Pitrusmruti%20Bldg%2C%20B%20wing%2C%201st%20floor%20Rammaruti%2CRoad%20%26%2C%20Gokhale%20Rd%2C%20Naupada%2C%20junction%20Thane%2C%20Maharashtra%20400602!3m2!1d19.187878599999998!2d72.97249699999999!5e0!3m2!1sen!2sin!4v1644080859474!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Naupada",
+                "AddressOne" : ["Pitrusmruti Bldg, B wing, 1st floor Rammaruti,Road, &, Gokhale Rd, Naupada, junction, Thane, Haryana-400602"],
+                "MapAddress" : ["https://goo.gl/maps/nm5AWWP5rM2xC2Jm7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d30145.341187946455!2d72.972497!3d19.1878786!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be7b9958eda35c9%3A0xef6c15e8f80704bc!2sBYJU&#39;S%20Learning%20Centre%20-%20Naupada%20Pitrusmruti%20Bldg%2C%20B%20wing%2C%201st%20floor%20Rammaruti%2CRoad%20%26%2C%20Gokhale%20Rd%2C%20Naupada%2C%20junction%20Thane%2C%20Maharashtra%20400602!3m2!1d19.187878599999998!2d72.97249699999999!5e0!3m2!1sen!2sin!4v1644080647184!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Kanpur",
+        "StateName" : "Uttar Pradesh",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d36518.66186769837!2d80.30776234421012!3d26.48259282807466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBYJU%E2%80%99S%20Learning%20Centre%20in%20Kanpur!5e0!3m2!1sen!2sin!4v1644083927319!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Pandu Nagar",
+                "AddressOne" : ["No. 117-H, 1-365, opp. Bikanerwala,Premises, Near J.K. Temple, Pandu Nagar, Kanpur, 208005"],
+                "MapAddress" : ["https://goo.gl/maps/fcq9LFW3ew8NZ1bx9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d36518.66186769837!2d80.30776234421012!3d26.48259282807466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBYJU%E2%80%99S%20Learning%20Centre%20in%20Kanpur!5e0!3m2!1sen!2sin!4v1644083927319!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Swaroop Nagar",
+                "AddressOne" : ["House No. 7/118, Swaroop Nagar Tulsa Devi Commercial Complex, Kanpur, 208002"],
+                "MapAddress" : ["https://goo.gl/maps/fcq9LFW3ew8NZ1bx9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d57136.6682840325!2d80.30707!3d26.4866!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x399c39a5d57bba23%3A0x88f537e966f17922!2sBYJU&#39;S%20Learning%20Centre%20-%20Swaroop%20Nagar%20House%20No.%207%2F118%2C%20Swaroop%20Nagar%20Tulsa%20Devi%20Commercial%20Complex%20Kanpur%2C%20Uttar%20Pradesh%20208002!3m2!1d26.4866!2d80.30707!5e0!3m2!1sen!2sin!4v1644088420401!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "lucknow",
+        "StateName" : "Uttar Pradesh",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d107483.04653123197!2d81.00020528282128!3d26.885316005227214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbyjus%20Learning%20%20lucknow!5e0!3m2!1sen!2sin!4v1644091028894!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Aliganj",
+                "AddressOne" : ["2nd Floor, STW Infinity, Plot No.5, Sector E, Aliganj, Lucknow, 226024"],
+                "MapAddress" : ["https://goo.gl/maps/jw8Lc3urRAyreKHm8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d227741.05193558897!2d80.9406504!3d26.8890851!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x399957a2e9b0b107%3A0x448bc559aa46ad8c!2sBYJU&#39;S%20Learning%20Centre%20-%20Aliganj%202nd%20Floor%2C%20STW%20Infinity%2C%20Plot%20No.5%20Sector%20E%2C%20Aliganj%20Lucknow%2C%20Uttar%20Pradesh%20226024!3m2!1d26.8890851!2d80.9406504!5e0!3m2!1sen!2sin!4v1644092668835!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Gomti Nagar",
+                "AddressOne" : ["3rd & 4th Floor, Urbanac Business Park, A-1, Vibhuti Khand, Gomti Nagar, Lucknow, 226010"],
+                "MapAddress" : ["https://goo.gl/maps/AzdHzeiTvfnzB8x58"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d56944.08943360359!2d81.0006717!3d26.8715635!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x399be32faf97d769%3A0x63a49fbedb831673!2sBYJU&#39;S%20Tuition%20Centre%20-%20Gomti%20Nagar%203rd%20%26%204th%20Floor%2C%20Urbanac%20Business%20Park%20A-1%2C%20Vibhuti%20Khand%2C%20Gomti%20Nagar%20Lucknow%2C%20Uttar%20Pradesh%20226010!3m2!1d26.871563499999997!2d81.0006717!5e0!3m2!1sen!2sin!4v1644092859346!5m2!1sen!2sin"]
+            }
+        ]
+    },
+
+    {
+        "CityName" : "Hyderabad",
+        "StateName" : "Telangana",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d213866.47057284642!2d78.48110006478558!3d17.486093322087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sByjus%20Learning%20Centre%20in%20Hydrabad!5e0!3m2!1sen!2sin!4v1644093685775!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Narayanguda",
+                "AddressOne" : ["Narayanguda Rd, Hari Vihar Colony, Bhawani Nagar, Narayanguda, Hyderabad, 500029"],
+                "MapAddress" : ["https://goo.gl/maps/fiSqguAD4qn921k58"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d243668.54364128798!2d78.4915668!3d17.3963764!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bcb99b2fbd44b05%3A0x72bf4cdff0a5ab2!2sByju&#39;s%20Tuition%20Centre%20Narayanguda%20Rd%20Hari%20Vihar%20Colony%2C%20Bhawani%20Nagar%2C%20Narayanguda%20Hyderabad%2C%20Telangana%20500029!3m2!1d17.396376399999998!2d78.4915668!5e0!3m2!1sen!2sin!4v1644094574177!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Kukatpally",
+                "AddressOne" : ["Vijay Sai Towers, Door no.6-11 & 6-11/A, First floor(North Easter Corner), 101/B, opp. BJP Office Road, Kukatpally, Hyderabad, 500072"],
+                "MapAddress" : ["https://goo.gl/maps/pQpzjYcSYvU7Hji28"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d487108.17192063126!2d78.4145042!3d17.4820716!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bcb91dc53d301bb%3A0xbaaf6ee9c73a4db1!2sBYJU&#39;S%20Tuition%20Centre%20-%20Kukatpally%20Vijay%20Sai%20Towers%20Door%20no.6-11%20%26%206-11%2FA%2C%20First%20floor(North%20Easter%20Corner)%2C%20101%2FB%20opp.%20BJP%20Office%20Road%2C%20Kukatpally%2C%20Hyderabad%2C%20Telangana%20500072!3m2!1d17.482071599999998!2d78.4145042!5e0!3m2!1sen!2sin!4v1644095349514!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Suchitra",
+                "AddressOne" : ["Block-G, Second floor, Plot no.8A, 9A, 9B in, Suchitra, Green Park, Quthbullapur, Mandal, 500067"],
+                "MapAddress" : ["https://goo.gl/maps/6R7bSMJXjhK3WKsM8"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d487050.3655829245!2d78.4780789!3d17.5036473!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bcb9b3843fa94a9%3A0xd141bbc344370c2c!2sBYJU&#39;S%20Tuition%20Centre%20-%20Suchitra%20Junction%20Block-G%20Second%20floor%2C%20Plot%20no.8A%2C%209A%2C%209B%20in%20Suchitra%2C%20Green%20Park%2C%20Quthbullapur%2C%20Mandal%2C%20Telangana%20500067!3m2!1d17.5036473!2d78.4780789!5e0!3m2!1sen!2sin!4v1644094856342!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Lanco hills",
+                "AddressOne" : ["Door no.7-66/2/PH/33 & 34, Sy no.66/2 SF, Lanco hills, Raidurga, Navkhalsa, Serlingampally, Hyderabad, 500089"],
+                "MapAddress" : ["https://goo.gl/maps/PWyVM6oaQCHKCsTR6"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d487300.0220995804!2d78.3760455!3d17.4102796!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bcb9519487dfdbf%3A0x9a62d871d9136b95!2sBYJU&#39;S%20Tuition%20Centre%20-%20Lanco%20Hills%20Door%20no.7-66%2F2%2FPH%2F33%20%26%2034%2C%20Sy%20no.66%2F2%20SF%2C%20Lanco%20hills%2C%20Raidurga%2C%20Navkhalsa%2C%20Serlingampally%20Hyderabad%2C%20Telangana%20500089!3m2!1d17.4102796!2d78.37604549999999!5e0!3m2!1sen!2sin!4v1644095226845!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Paradise",
+                "AddressOne" : ["A-WING, NORTH BLOCK, 401, 4TH FLOOR,HMRL COMMERCIAL COMPLEX, beside FIRE STATION, opposite PARADISE METRO, Secunderabad, 500003"],
+                "MapAddress" : ["https://goo.gl/maps/Lp5HEuYocX1DGpoX6"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d487212.4704500759!2d78.4857065!3d17.4430777!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bcb9b35d044afd3%3A0xdba803766f656313!2sBYJU&#39;S%20Learning%20Centre%20-%20Paradise%20A-WING%2C%20NORTH%20BLOCK%2C%20401%2C%204TH%20FLOOR%2CHMRL%20COMMERCIAL%20COMPLEX%20beside%20FIRE%20STATION%2C%20opposite%20PARADISE%20METRO%20Secunderabad%2C%20Telangana%20500003!3m2!1d17.4430777!2d78.48570649999999!5e0!3m2!1sen!2sin!4v1644095473482!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Pune",
+        "StateName" : "Maharashtra",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d242081.07453207992!2d73.89930118176476!3d18.550725844835913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sByjus%20Learning%20Centre%20in%20Pune!5e0!3m2!1sen!2sin!4v1644095778980!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Baner",
+                "AddressOne" : ["2/4, High Point, 2nd & 3rd Floor, Opp, Bharati Vidyapeeth Rd, Pune, 411045"],
+                "MapAddress" : ["https://goo.gl/maps/AyWCrVYQPuWs3qei7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d484421.3669970466!2d73.8550211!3d18.459096!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bc2eb9d0fc38021%3A0x39d30606641ac634!2sBYJU&#39;S%20Learning%20Centre%20-%20Baner%202%2F4%20High%20Point%2C%202nd%20%26%203rd%20Floor%20Opp%2C%20Bharati%20Vidyapeeth%20Rd%2C%20Pune%2C%20Maharashtra%20411045!3m2!1d18.459096!2d73.8550211!5e0!3m2!1sen!2sin!4v1644095818905!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Pimpri-Chinchwad",
+                "AddressOne" : ["Jewel of Pimpri, Opposite PCMC Building, 2nd Floor, B – Wing, Unit 1 to 5 & 46 to 48, Pimpri, 411018"],
+                "MapAddress" : ["https://goo.gl/maps/31Ugkeu7HVVCSJ1E7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d7561.581136197918!2d73.8033928!3d18.6284874!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3bc2b990cc20d777%3A0x5a87a4deecafe572!2sBYJU&#39;S%20Tuition%20Centre%20-%20Pimpri-Chinchwad%202nd%20Floor%2C%20The%20Jewel%20Of%20Pimpri%20B-%20Wing%20Unit%201%20to%205%20%26%2046%20to%2048%2C%20opposite%20to%20PCMC%20Building%2C%20MIDC%2C%20Pimpri%20Colony%20Pimpri-Chinchwad%2C%20Maharashtra%20411018!3m2!1d18.6284874!2d73.8033928!5e0!3m2!1sen!2sin!4v1644096013633!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Surat",
+        "StateName" : "Gujarat",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d442893.78146708326!2d72.87268770073635!3d21.224816545962415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sByjus%20Learning%20Centre%20Surat!5e0!3m2!1sen!2sin!4v1644096917130!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Pandesara",
+                "AddressOne" : ["2nd Floor, KSB Olympia, Plot No. 171, Opp. Kailash Chowkdi, Bamroli, Pandesara, Surat, 394210"],
+                "MapAddress" : ["https://goo.gl/maps/T6Xd3uSXF62SvvFd9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d3810353.4216976855!2d72.8221611!3d21.1504775!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be051ebecfa6d65%3A0x2dbadc3d7f225f89!2sBYJU&#39;S%20Tuition%20Centre%20-%20Pandesara%202nd%20Floor%2C%20KSB%20Olympia%2C%20Plot%20No.%20171%2C%20Opp.%20Kailash%20Chowkdi%2C%20Bamroli%20Pandesara%20Surat%2C%20Gujarat%20394210!3m2!1d21.150477499999997!2d72.8221611!5e0!3m2!1sen!2sin!4v1644096645715!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Vishal Nagar",
+                "AddressOne" : ["6RJP+VPW, Rajanand Society, Ram Nagar Society, Vishal Nagar, Surat, 395004"],
+                "MapAddress" : ["https://goo.gl/maps/LPMfQjeSyCVygdhL9"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d952061.4608656467!2d72.8368294!3d21.2322419!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be04ff5113ea157%3A0x4fe8007d2884f9c3!2sByju&#39;s%20Learning%20Centre%206RJP%2BVPW%20Rajanand%20Society%2C%20Ram%20Nagar%20Society%2C%20Vishal%20Nagar%20Surat%2C%20Gujarat%20395004!3m2!1d21.2322419!2d72.8368294!5e0!3m2!1sen!2sin!4v1644097022336!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Varachha",
+                "AddressOne" : ["2nd Floor, Blue Point, Sarthana Jakat Naka - Kamrej Rd, Varachha, Surat, 395006"],
+                "MapAddress" : ["https://goo.gl/maps/bv6VBAWUde2z13PTA"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d476031.57034270314!2d72.9030701!3d21.2319817!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3be045d2d77ffb39%3A0x232db104f8ead59b!2sBYJU&#39;S%20Tuition%20Centre%20-%20Varachha%202nd%20Floor%2C%20Blue%20Point%20Sarthana%20Jakat%20Naka%20-%20Kamrej%20Rd%2C%20Varachha%20Surat%2C%20Gujarat%20395006!3m2!1d21.2319817!2d72.9030701!5e0!3m2!1sen!2sin!4v1644097140881!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Jaipur",
+        "StateName" : "Rajasthan",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d255497.26884633116!2d75.81609026813756!3d26.948003079540324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBYJU%E2%80%99S%20Tuition%20Center%20in%20Vaishali%20Nagar!5e0!3m2!1sen!2sin!4v1644097306636!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Vaishali Nagar",
+                "AddressOne" : ["Harshit Mansion, 79 & 81, Gautam Marg, Shivraj Niketan Colony, Vaishali Nagar, Jaipur, 302021"],
+                "MapAddress" : ["https://goo.gl/maps/WLxFrKet6GwhYj158"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d455374.6237967573!2d75.7432968!3d26.915735!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x396db3d11e2a656b%3A0xf06a9fc542418539!2sBYJU&#39;S%20Tuition%20Centre%20-%20Vaishali%20Nagar%20Harshit%20Mansion%2079%20%26%2081%2C%20Gautam%20Marg%2C%20Shivraj%20Niketan%20Colony%2C%20Vaishali%20Nagar%20Jaipur%2C%20Rajasthan%20302021!3m2!1d26.915734999999998!2d75.7432968!5e0!3m2!1sen!2sin!4v1644097396069!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "C Scheme",
+                "AddressOne" : ["Durlabh Chambers, D-24-C, Prithviraj Rd, C Scheme, Jaipur, Rajasthan 302001"],
+                "MapAddress" : ["https://goo.gl/maps/jsKdti4SYZMPkM5A7"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d455399.4066839302!2d75.801294!3d26.9095922!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x396db513e105c213%3A0x298277e958d6b4e7!2sBYJU&#39;S%20Tuition%20Centre-%20C%20Scheme%20Durlabh%20Chambers%2C%20D-24-C%20Prithviraj%20Rd%2C%20C%20Scheme%20Jaipur%2C%20Rajasthan%20302001!3m2!1d26.9095922!2d75.801294!5e0!3m2!1sen!2sin!4v1644097637870!5m2!1sen!2sin"]
+            },
+            {
+                "CenterName": "Gopalpura",
+                "AddressOne" : ["GANESHAM, 2nd Floor, Plot No 22 to 25 & 91,92, Gopalpura Bypass, Gopal Nagar-A, Ashok Vihar, Ext, Jaipur, 302018"],
+                "MapAddress" : ["https://goo.gl/maps/Yc8vhUYXFzoY2eHBA"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d455573.70220946905!2d75.786733!3d26.8663538!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x396db52c76f2b90b%3A0xa1ad83908c671893!2sBYJU&#39;S%20Tuition%20Centre%20-%20Gopalpura%20Bypass%20GANESHAM%2C%202nd%20Floor%2C%20Plot%20No%2022%20to%2025%20%26%2091%2C92%20Gopalpura%20Bypass%2C%20Gopal%20Nagar-A%2C%20Ashok%20Vihar%2C%20Ext%20Jaipur%2C%20Rajasthan%20302018!3m2!1d26.8663538!2d75.786733!5e0!3m2!1sen!2sin!4v1644097752215!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Gurgaon",
+        "StateName" : "Haryana",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d582053.9430182236!2d77.29975197140841!3d28.496255286617753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sByju&#39;s%20Learning%20Centre%20Haryana!5e0!3m2!1sen!2sin!4v1644098181773!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "DLF Colony",
+                "AddressOne" : ["F29V+JHG, Block B, DLF Colony, Sector 14, Gurugram, Haryana-122022"],
+                "MapAddress" : ["https://goo.gl/maps/7PoQpGBCoUmJWjQKA"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d448940.5590093096!2d77.0439517!3d28.4690611!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390d19bf6e9bb43f%3A0x4aca6bf40815687f!2sBYJU&#39;s%20learning%20center%20F29V%2BJHG%20Block%20B%2C%20DLF%20Colony%2C%20Sector%2014%20Gurugram%2C%20Haryana%20122022!3m2!1d28.469061099999998!2d77.0439517!5e0!3m2!1sen!2sin!4v1644098278730!5m2!1sen!2sin"]
+            }
+        ]
+    },
+    {
+        "CityName" : "Faridabad",
+        "StateName" : "Haryana",
+        "IframeLink" : ["https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d582053.9430182236!2d77.29975197140841!3d28.496255286617753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sByju&#39;s%20Learning%20Centre%20Haryana!5e0!3m2!1sen!2sin!4v1644098181773!5m2!1sen!2sin"],
+        "CenterInfo" : [
+            {
+                "CenterName": "Industrial Town",
+                "AddressOne" : ["5D,FF,8A, Railway Rd, New Industrial Town, Faridabad, Haryana-121001"],
+                "MapAddress" : ["https://goo.gl/maps/EoStASpc4U2csuKX6"],
+                "CenterImg": ["https://cdn1.byjus.com/wp-content/uploads/2022/02/blc_tution_comb_banner.png"],
+                "CenterIframe":["https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d449238.0434094319!2d77.3059858!3d28.3989667!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390cdde21d7aaea3%3A0x25eff2c60fcba59!2sByju&#39;s%20learning%20centre%205D%2CFF%2C8A%20Railway%20Rd%2C%20New%20Industrial%20Town%20Faridabad%2C%20Haryana%20121001!3m2!1d28.3989667!2d77.3059858!5e0!3m2!1sen!2sin!4v1644098575918!5m2!1sen!2sin"]
+            }
+        ]
+    }
+]
