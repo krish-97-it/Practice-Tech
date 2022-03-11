@@ -1,0 +1,224 @@
+/* ---------------quiz login page css---------------- */
+body {
+    text-align: center;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .quiz-login-banner {
+    /* margin-top: 104px; */
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+  }
+  .india-banner {
+    width: 100%;
+    height: 100%;
+  }
+  .login-banner-blk {
+    width: 100%;
+  }
+  .quiz-banner-block-wo-container {
+    background-image: linear-gradient(to right, #0076d9, #007ec1);
+  }
+  .quiz-login-section {
+    margin: 25px 0;
+    padding: 25px 0;
+  }
+
+  .quiz-login-title {
+    font-size: 28px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+  }
+
+  form.quiz-login-form {
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 40px 0 rgb(149 149 149 / 14%);
+    background-color: #fff;
+    padding: 30px 30px 130px 180px;
+  }
+
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus,
+  input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+  }
+
+  form.quiz-login-form .form-control {
+    -webkit-box-shadow: inherit;
+    box-shadow: inherit;
+    border: 1px solid white;
+    border-bottom:  1px solid #979797;
+  }
+  form.quiz-login-form .form-group {
+    position: relative;
+  }
+  .quiz-login-form {
+    margin-bottom: 240px;
+  }
+  .quiz-form-section
+  {
+    margin-bottom: 100px;
+  }
+  .input-error-msg {
+    font-size: 12px;
+    color: red;  
+  }
+  .name-field-blk
+  {
+  position:relative;
+  width:100%;
+  margin-top:0px;
+  }
+  .email-field-blk
+  {
+  position:relative;
+  width:100%;
+  margin-top:10px;
+  }
+  .name-field-label{
+  position:relative;
+  width:25%;
+  float:left;
+  margin-top:8px;
+  /*   text-align:end; */
+  padding-top:8px;
+  padding-left:36px;
+  padding-right:0px;
+  }
+  .name-field
+  {
+  position:relative;
+  width:72%;
+  float:right;
+  margin-right:10px;
+  }
+  .email-field-label{
+  width:25%;
+  float:left;
+  margin-top:8px;
+  padding-top:8px;
+  padding-left:22px;
+  padding-right:0px;
+  }
+  .email-field
+  {
+  width:72%;
+  float:right;
+  margin-right:10px;
+  }
+  .form-control
+  {
+  border: 0px solid white;
+  border-bottom: 1px solid #3e3d3d;
+  border-radius:0px;
+  box-shadow:inherit;
+  }
+  .submit-btn-fg{
+    position: relative;
+    width:100%;
+    margin-top:28px;
+    margin-left: 2px;
+  }
+  .submit-button-area
+  {   
+    position: relative;
+    width:100%;
+  }
+  .submit-button{
+    width:150px;
+    background: #813588;
+    border-radius: 32px;
+    font-size: 18px;
+    color:white;
+  }
+  form.quiz-form-area
+  {
+    padding: 45px 20px 50px 20px;
+    border-radius: 41px;
+    box-shadow: 0 0 40px 0 rgb(52 52 52 / 14%);
+  }
+  .invalid_name
+  {
+  text-align:left;
+  }
+  .invalid_email
+  {
+  text-align:left;
+  }
+  @media(max-width:445.98px)
+  {
+  form.quiz-form-area
+  {
+    padding-right:6px;
+    margin-left:10px;
+    margin-right:10px;
+  }
+  .name-field-label{
+    width:28%;
+  }
+  .email-field-label{
+    width:28%;
+    padding-left:22px;
+  }
+  .name-field{
+    margin-right:0px;
+    padding-right:20px;
+    width:72%
+  }
+  .email-field{
+    margin-right:0px;
+    padding-right:20px;
+    width:72%
+  }
+  }
+  @media(max-width:389.98px)
+  {
+  .name-field-label{
+    width:30%;
+  }
+  .email-field-label{
+    width:30%;
+     padding-left:20px;
+     padding-right:10px;
+  }
+  .name-field{
+    width:70%;
+  }
+  .email-field{
+    width:70%;
+  }
+  }
+  @media(max-width:337.98px)
+  {
+  .name-field-label{
+    width:30%;
+  }
+  .email-field-label{
+    width:30%;
+     padding-left:16px;
+     padding-right:4px;
+  }
+  .name-field{
+    width:70%;
+  }
+  .email-field{
+    width:70%;
+  }
+  }
+  .quiz-login
+  {
+    padding-top:40px;
+  }
+  @media(max-width:624.98px)
+  {
+    form.quiz-form-area
+    {
+    margin-left:12px;
+    margin-right:12px;
+    }
+  }
