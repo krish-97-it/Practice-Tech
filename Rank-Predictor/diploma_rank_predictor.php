@@ -103,9 +103,8 @@
                                                     <label>College Type</label>
                                                     <select name="collegeType" class="form-control">
                                                         <option value="" default selected>Any</option>
-                                                        <option value="Government">Government</option>
-                                                        <option value="private">Private</option>
-                                                        <option value="Govt-Sponsored">Govt. Sponsered</option>
+                                                        <option value="GOVERNMENT">Government</option>
+                                                        <option value="PRIVATE">Private</option>
                                                     </select>
                                                 </div>
                                             </div>
@@ -120,7 +119,7 @@
                                             <div class="col-md-6">
                                                 <div class="form-group">
                                                     <label>District</label>
-                                                    <select name="district" class="form-control">
+                                                    <select name="districtList" class="form-control">
                                                         <option value="" default selected>Any</option>
                                                     </select>
                                                 </div>

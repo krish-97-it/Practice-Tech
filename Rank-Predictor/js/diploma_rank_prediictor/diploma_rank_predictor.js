@@ -4,10 +4,10 @@ var COLLEGE_BRANCH_PREDICTOR = {
 
 jQuery(document).ready(function(){
 
-    var college_type                =   jQuery('[name="college-type"]');
-    var course_name                 =   jQuery('[name="college-name"]');
+    var college_type                =   jQuery('[name="collegeType"]');
+    var college_list                =   jQuery('[name="collegeList"]')
+    var district_list               =   jQuery('[name="districtList"]');
     var user_rank                   =   jQuery('[name="user-rank"]');
-    var district_name               =   jQuery('[name="college-type"]');
     var data_search_btn             =   jQuery('[data-search-btn]');
     var data_view_full_list         =   jQuery('[data-view-full-list]');
     var data_clear_btn              =   jQuery('[data-clear-btn]');
@@ -15,13 +15,97 @@ jQuery(document).ready(function(){
     var scroll_to_top               =   jQuery('[scroll-top-page]');
     var scroll_to_bottom            =   jQuery('[scroll-bottom-page]');
 
-    var college_details_data,temp_html='',isCollegeType,data_address;
+    var college_details_data,collegeListJSON,temp_html='',distListJSON,data_address;
+    var collegeListarray = new Array(), distListArray = new Array(), temp_data_array = new Array();
 
-    jQuery.get(COLLEGE_BRANCH_PREDICTOR.collegeDetailsJsonURL).done(function (collegeBranchList){
-        college_details_data = collegeBranchList;
+    jQuery.get(COLLEGE_BRANCH_PREDICTOR.collegeDetailsJsonURL).done(function (collegeListData){
+
+        // On click eligibility btn
+        jQuery('.eligibility-modal').click(function(){
+
+            // scroll up and down botton hidden initially on modal
+            document.getElementById("myBtnTop").style.display="none";
+            document.getElementById("myBtnBottom").style.display="none";
+
+            defaultDataLoad();
+        });
+
+        college_type.on('change',function(){
+            onChangeCollegeType()
+        });
+
+        // To clear all field data of modal
+        jQuery(data_clear_btn).click(function(){
+            custom_functions.clearFormData();
+            onChangeCollegeType();
+        });
+        
+        // Once Download btn is clicked
+        jQuery('[data-download-btn]').click(function(){
+            downloadCSVFromJson("collegelist.csv",collegeListData);
+        });
+
+        function defaultDataLoad(){
+            distListJSON = collegeListData;
+            jQuery.each(distListJSON, function(i ,distList) {
+                if (!distListArray.includes(distList.District)) {
+                    distListArray.push(distList.District);
+                    district_list.append('<option value="' + distList.District + '">' + distList.District + '</option>');
+                }
+            });
+
+            collegeListJSON = collegeListData;
+            collegeListJSON.sort(function(a, b){
+                return a.CollegeName.localeCompare(b.CollegeName);
+            });
+            for(var i =0; i<collegeListJSON.length; i++){
+                college_list.append('<option value="' + collegeListData[i].CollegeName + '">' + collegeListData[i].CollegeName + '</option>');
+            }
+        }
+
+        function onChangeCollegeType(){
+            college_list.empty();
+            college_list.append('<option value="" default selected>Any</option>')
+            college_details_data = collegeListData;
+            college_details_data.sort(function(a, b){
+                return a.CollegeName.localeCompare(b.CollegeName);
+            });
+            console.log(college_details_data);
+            for(var i =0; i<college_details_data.length; i++){
+                if(college_type.val() == college_details_data[i].CollegeType){
+                    console.log("hello")
+                    // if(!temp_data_array.includes(college_details_data[i].CollegeName)){
+                        // temp_data_array.push(college_details_data[i].CollegeName);
+                        college_list.append('<option value="' + college_details_data[i].CollegeName + '">' + college_details_data[i].CollegeName + '</option>');
+                    // }
+                }else if(college_type.val() == ''){
+                    college_list.append('<option value="' + college_details_data[i].CollegeName + '">' + college_details_data[i].CollegeName + '</option>');
+                }
+            }
+        }
+
+        function downloadCSVFromJson(filename, arrayOfJson){
+            // convert JSON to CSV
+            const replacer = (key, value) => value === null ? '' : value // specify how you want to handle null values here
+            const header = Object.keys(arrayOfJson[0])
+            let csv = arrayOfJson.map(row => header.map(fieldName => 
+            JSON.stringify(row[fieldName], replacer)).join(','))
+            csv.unshift(header.join(','));
+            csv = csv.join('\r\n');
+        
+            // Create link and download
+            var link = document.createElement('a');
+            link.setAttribute('href', 'data:text/csv;charset=utf-8,%EF%BB%BF' + encodeURIComponent(csv));
+            link.setAttribute('download', filename);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
     })
 
-    // To dispay all data
+    // To dispay all data / when clicked on View Full btn
     jQuery(data_view_full_list).on("click",function(){
         
         jQuery('#myModal').modal("hide");
@@ -61,75 +145,52 @@ jQuery(document).ready(function(){
             
         });
         document.getElementById("myBtnBottom").style.display="block";
-
-        jQuery('[data-download-btn]').click(function(){
-            downloadCSVFromJson("collegelist.csv",college_details_data);
-        })
     });
 
-    // To clear all field data of modal
-    jQuery(data_clear_btn).click(function(){
-        jQuery('.form-control').val('');
-    });
-
-    // 
-    jQuery('.eligibility-modal').click(function(){
-        document.getElementById("myBtnTop").style.display="none";
-        document.getElementById("myBtnBottom").style.display="none";
-    })
-
-    // Scoll to top and buttom btn
+    // Quick Scroll To Top
     scroll_to_top.click(function(){
-        topFunction();
+        // Scroll To Top
+        custom_functions.topFunction();
     });
+    // Quick Scroll To Bottom
     scroll_to_bottom.click(function(){
-        bottomFunction();
+        // Scroll to bottom
+        custom_functions.bottomFunction();
     });
-    // When the user clicks on the button, scroll to the top of the document
-    function topFunction() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-        document.getElementById("myBtnTop").style.display="none";
-        document.getElementById("myBtnBottom").style.display="block";
-    }
-    function bottomFunction()
-    {
-        var height = document.body.scrollHeight;
-        window.scroll(0 , height);
-        document.getElementById("myBtnBottom").style.display="none";
-        document.getElementById("myBtnTop").style.display="block";
-    }
-
 
     // Print the data functionality
     jQuery('[data-print-btn]').click(function(){
-        printOrSave()
-    })
-    function printOrSave() {
-        var divToPrint=document.getElementById("result-table-container-id");
-        newWin= window.open("");
-        newWin.document.write(divToPrint.outerHTML);
-        newWin.print();
-        newWin.close();
+        custom_functions.printOrSave();
+    });
+
+    var custom_functions = {
+
+        clearFormData : function(){
+            jQuery('.form-control').val('');
+        },
+
+        topFunction : function(){
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+            document.getElementById("myBtnTop").style.display="none";
+            document.getElementById("myBtnBottom").style.display="block";
+        },
+
+        bottomFunction : function (){
+            var height = document.body.scrollHeight;
+            window.scroll(0 , height);
+            document.getElementById("myBtnBottom").style.display="none";
+            document.getElementById("myBtnTop").style.display="block";
+        },
+
+        printOrSave : function() {
+            var divToPrint=document.getElementById("result-table-container-id");
+            newWin= window.open("");
+            newWin.document.write(divToPrint.outerHTML);
+            newWin.print();
+            newWin.close();
+        },
+
     }
 
-    // Download table data as CSV function
-    function downloadCSVFromJson(filename, arrayOfJson){
-        // convert JSON to CSV
-        const replacer = (key, value) => value === null ? '' : value // specify how you want to handle null values here
-        const header = Object.keys(arrayOfJson[0])
-        let csv = arrayOfJson.map(row => header.map(fieldName => 
-        JSON.stringify(row[fieldName], replacer)).join(','))
-        csv.unshift(header.join(','))
-        csv = csv.join('\r\n')
-      
-        // Create link and download
-        var link = document.createElement('a');
-        link.setAttribute('href', 'data:text/csv;charset=utf-8,%EF%BB%BF' + encodeURIComponent(csv));
-        link.setAttribute('download', filename);
-        link.style.visibility = 'hidden';
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-    };
 })
