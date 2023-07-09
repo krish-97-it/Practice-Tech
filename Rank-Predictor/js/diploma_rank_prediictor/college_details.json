@@ -7,11 +7,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "KALPATHAR, BANKURA",
      "Address2": "PIN-722146",
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹600",
+     "Website": "https://polytechnic.wbtetsd.gov.in/bankuragovpoly",
+     "Phone": "3242201075",
+     "Email": "bgp.bku@gmail.com"
     },
     {
      "SlNo": 2,
@@ -21,11 +22,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-BISHNUPUR, DIST.-BANKURA",
      "Address2": "PIN-722122" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 3,
@@ -35,11 +37,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "PO-SIROMONIPUR, PS-RAIPUR",
      "Address2": "DIST. BANKURA, PIN-722134" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 4,
@@ -49,11 +52,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "VILL-PABUIDIGHI, P.O. NINGHA",
      "Address2": "BIRBHUM, PIN-731202" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 5,
@@ -61,13 +65,14 @@
      "CollegeName": "MURARAI GOVERNMENT POLYTECHNIC",
      "District": "BIRBHUM",
      "CollegeType": "GOVERNMENT",
-     "Address1": "VILL &amp; P.O. BON MOHURAPUR, P.S. MURARAI",
+     "Address1": "VILL & P.O. BON MOHURAPUR, P.S. MURARAI",
      "Address2": "BIRBHUM, PIN-731222" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 6,
@@ -77,11 +82,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "NALHATI",
      "Address2": "BIRBHUM, PIN-731243" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 7,
@@ -91,11 +97,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-SURI, DIST.-BIRBHUM",
      "Address2": "PIN-731101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 8,
@@ -105,25 +112,27 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-DAKSHIN DHADKA, ASANSOL",
      "Address2": "DIST.-BURDWAN, PIN-713302" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹340",
+     "Website": "https://polytechnic.wbtetsd.gov.in/asansolpoly",
+     "Phone": "0341-2270053",
+     "Email": "asansolpolytechnic_mes@yahoo.com"
     },
     {
      "SlNo": 9,
      "Code": "HBI",
-     "CollegeName": "HARASANKAR BHATTACHARYA INSTITUTE OF TECHNOLOGY &amp; MINING",
+     "CollegeName": "HARASANKAR BHATTACHARYA INSTITUTE OF TECHNOLOGY & MINING",
      "District": "BURDWAN",
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.- RANIGANJ, DIST.- BURDWAN",
      "Address2": "PIN - 713347" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 10,
@@ -133,11 +142,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "SHYAMGANJPARA, P.O.-KALNA",
      "Address2": "BURDWAN, PIN-713409" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 11,
@@ -147,25 +157,27 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O. ASANSOL, DIST.-BURDWAN",
      "Address2": "PIN-713304" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 12,
      "Code": "MBC",
-     "CollegeName": "M.B.C. INSTITUTE OF ENGINEERING &amp; TECHNOLOGY",
+     "CollegeName": "M.B.C. INSTITUTE OF ENGINEERING & TECHNOLOGY",
      "District": "BURDWAN",
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.- SADHANPUR",
      "Address2": "DIST.-BURDWAN, PIN-713101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 13,
@@ -175,11 +187,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "UTTAR KAILASHPUR, LNT MATH, BLOCK-I",
      "Address2": "MEMARI, BURDWAN, PIN-713146" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 14,
@@ -189,11 +202,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-HINDUSTAN CABLES, RUPNARAYANPUR",
      "Address2": "DIST.-BURDWAN, PIN-713335" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 15,
@@ -201,13 +215,14 @@
      "CollegeName": "COOCHBEHAR POLYTECHNIC",
      "District": "COOCHBEHAR",
      "CollegeType": "GOVERNMENT",
-     "Address1": "KESHAB ROAD, P.O. &amp; DIST.- COOCHBEHAR",
+     "Address1": "KESHAB ROAD, P.O. & DIST.- COOCHBEHAR",
      "Address2": "PIN - 736 101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 16,
@@ -217,11 +232,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "SITAI MORE, MATHABHANGA",
      "Address2": "DIST : COOCH BEHAR, PIN 736146" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 17,
@@ -231,11 +247,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "CHAMTA, P.O.-TUFANGANJ, DIST.-COOCHBEHAR",
      "Address2": "PIN - 736 159" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 18,
@@ -245,11 +262,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-DABGRAM, SILIGURI",
      "Address2": "DIST.-DARJEELING, PIN-734006" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 19,
@@ -259,11 +277,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "KADIGHAT, P.O. - BELBARI",
      "Address2": "DIST.-DAKSHIN DINAJPUR, PIN - 733124" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 20,
@@ -273,11 +292,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "PO-PEOR, PS-HILLI",
      "Address2": "DAKSHIN DINAJPUR, PIN-733145" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 21,
@@ -287,11 +307,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "BARHAT, P.O. ISLAMPUR",
      "Address2": "UTTAR DINAJPUR, PIN-733207" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 22,
@@ -301,11 +322,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "SOHAIR, ITAHAR",
      "Address2": "UTTAR DINAJPUR, PIN : 733128" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 23,
@@ -315,11 +337,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-RAIGANJ, UTTAR DINAJPUR",
      "Address2": "PIN - 733134" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 24,
@@ -329,11 +352,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-DARUA, P.S.-CONTAI",
      "Address2": "DIST.-PURBA MEDINIPUR, PIN - 721401" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 25,
@@ -343,11 +367,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-DEBHOG, HALDIA",
      "Address2": "DIST.-PURBA MEDINIPUR, PIN-721657" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 26,
@@ -357,11 +382,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "AMALHANDA, P.O. - KOLAGHAT",
      "Address2": "DIST. - PURBA MEMINIPUR, PIN - 721134" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 27,
@@ -371,11 +397,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-FALAKATA, DIST.-JALPAIGURI",
      "Address2": "PIN - 735211" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 28,
@@ -385,11 +412,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-DENGUAJHAR, JALPAIGURI",
      "Address2": "PIN-735121" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 29,
@@ -399,11 +427,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.S. MAYNAGURI",
      "Address2": "JALPAIGURI, PIN-735302" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 30,
@@ -413,333 +442,357 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "PO-PRASANNAGAR, PS-RAJGANJ",
      "Address2": "DIST. JALPAIGURI, PIN-735133" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 31,
      "Code": "JCP",
      "CollegeName": "ACHARYA JAGADISH CHANDRA BOSE POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
      "Address1": "BERACHAMPA, P.O.-DEVALAYA",
      "Address2": "DIST.-NORTH 24-PARGANAS, PIN-743424" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "Website": "https://polytechnic.wbtetsd.gov.in/ajcbosepoly",
+     "Phone": "3216242227",
+     "Email": "ajcbpolytechnic@gmail.com"
     },
     {
      "SlNo": 32,
      "Code": "APC",
      "CollegeName": "ACHARYYA PRAFULLA CHANDRA ROY POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "188, RAJA S. C. MULLICK ROAD",
      "Address2": "P.O. - JADAVPUR, KOLKATA-700032" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "033-24146164/ 24146241",
+     "Email": "apcraypolytechnic@gmail.com"
     },
     {
      "SlNo": 33,
      "Code": "ARG",
      "CollegeName": "ARAMBAGH GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "GOVERNMENT",
      "Address1": "ARAMBAGH",
-     "Address2": "HOOGHLY, PIN-712602" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "P.O.- Chandur, P.S.-Arambagh, HOOGHLY, PIN-712602" ,
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹850",
+     "Website": "https://polytechnic.wbtetsd.gov.in/arambaggovpoly",
+     "Phone": "03323403765",
+     "Email": "agpgov@gmail.com"
     },
     {
      "SlNo": 34,
      "Code": "BAR",
      "CollegeName": "BARUIPUR GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-MALLICKPUR, P.S.-BARUIPUR",
      "Address2": "DIST.-24 PARGANAS (SOUTH), PIN-700145" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹600",
+     "Website": "https://polytechnic.wbtetsd.gov.in/baruipurgovpoly",
+     "Phone": "8335990569",
+     "Email": "baruipurgovtpolytechnic@gmail.com"
     },
     {
      "SlNo": 35,
      "Code": "BEL",
      "CollegeName": "BEHALA GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "756, UPENDRA NATH BANERJEE ROAD",
-     "Address2": "BEHALA , KOLKATA - 700060" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "Parnasree, BEHALA , KOLKATA - 700060" ,
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹600",
+     "Website": "https://polytechnic.wbtetsd.gov.in/behalagovpoly",
+     "Phone": "9830065530",
+     "Email": "behalagovpoly@gmail.com"
     },
     {
      "SlNo": 36,
      "Code": "BIT",
      "CollegeName": "BIRLA INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "56, BARRACKPORE TRUNK ROAD",
      "Address2": "KOLKATA - 700050" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "Website": "https://polytechnic.wbtetsd.gov.in/bitkolkata",
+     "Phone": "033-25576742",
+     "Email": "principalbitkolkata@gmail.com"
     },
     {
      "SlNo": 37,
      "Code": "CAN",
      "CollegeName": "CANNING GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
-     "Address1": "VILL &amp; P.O. NARAYANPUR , P.S. JIBANTALA",
+     "Address1": "VILL & P.O. NARAYANPUR , P.S. JIBANTALA",
      "Address2": "DIST. SOUTH 24 PARGANAS , PIN 743363" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 38,
      "Code": "CCP",
      "CollegeName": "CENTRAL CALCUTTA POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "21, CONVENT ROAD",
      "Address2": "KOLKATA - 700014" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 39,
      "Code": "CFT",
      "CollegeName": "CENTRAL FOOTWEAR TRAINING CENTRE",
-     "District": "KNSHH",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
      "Address1": "KALIPUR, P.O.-P.N. PUR, BUDGE BUDGE",
-     "Address2": "DIST.- SOUTH 24-PARGANAS, PIN - 700138?" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "DIST.- SOUTH 24-PARGANAS, PIN - 700138" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 40,
      "Code": "DGP",
      "CollegeName": "DIAMOND HARBOUR GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
      "Address1": "WARD NO. - 16, DIAMOND HARBOUR MUNICIPALITY",
      "Address2": "PO-DIAMOND HARBOUR, DIST. SOUTH 24 PARGANAS, PIN-743 331" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 41,
      "Code": "EIJ",
      "CollegeName": "ENGINEERING INSTITUTE FOR JUNIOR EXECUTIVES",
-     "District": "KNSHH",
+     "District": "HOWRAH",
      "CollegeType": "GOVERNMENT",
      "Address1": "MAHENDRA BHATTACHARYA ROAD, DALALPUKUR",
      "Address2": "DIST.-HOWRAH, PIN-711104" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 42,
      "Code": "GAI",
      "CollegeName": "GAIGHATA GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
      "Address1": "VILL-DEBIPUR, PO-CHANDPARA, PS-GAIGHATA",
      "Address2": "NORTH 24 PARGANAS, PIN-742245" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 43,
      "Code": "HIT",
      "CollegeName": "HOOGHLY INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "GOVERNMENT",
-     "Address1": "P.O. &amp; DIST. - HOOGHLY",
+     "Address1": "P.O. & DIST. - HOOGHLY",
      "Address2": "PIN-712103" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 44,
      "Code": "JCG",
      "CollegeName": "JNAN CHANDRA GHOSH POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "7, MAYURBHANJ ROAD",
      "Address2": "KOLKATA-700023" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 45,
      "Code": "NCP",
      "CollegeName": "NORTH CALCUTTA POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "15 GOBINDA MANDAL LANE",
      "Address2": "KOLKATA-700002" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 46,
      "Code": "BAS",
      "CollegeName": "SIR RAJENDRA NATH MUKHERJEE GOVERNMENT POLYTECHNIC (BASIRHAT GOVERNMENT POLYTECHNIC)",
-     "District": "KNSHH",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "GOVERNMENT",
-     "Address1": "P.O. BHYABLA BASIRHAT",
-     "Address2": "NORTH 24 PARGANAS, PIN : 743422" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address1": "Sir R.N.Mukherjee Road, P.O.- Bhyabla, P.S.-Basirhat",
+     "Address2": "BASIRHAT, NORTH 24 PARGANAS, PIN : 743422" ,
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
+     "YearlyAvgFees": "₹1400",
      "Website": "",
-     "Phone": ""
+     "Phone": "8336045142",
+     "Email": "basirhatgovpoly2019@gmail.com"
     },
     {
      "SlNo": 47,
      "Code": "CTS",
      "CollegeName": "THE CALCUTTA TECHNICAL SCHOOL",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "110, SURENDRA NATH BANERJEE ROAD",
      "Address2": "KOLKATA - 700013" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 48,
      "Code": "RPT",
      "CollegeName": "THE REGIONAL INSTITUTE OF PRINTING TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "RAJA S. C. MALLICK ROAD, JADAVPUR",
      "Address2": "KOLKATA-700032" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 49,
      "Code": "UGP",
      "CollegeName": "ULUBERIA GOVERNMENT POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "HOWRAH",
      "CollegeType": "GOVERNMENT",
      "Address1": "Uluberia",
      "Address2": "Howrah" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 50,
      "Code": "BAN",
      "CollegeName": "WEST BENGAL SURVEY INSTITUTE",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-BANDEL, DIST.-HOOGHLY",
      "Address2": "PIN - 712123" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 51,
      "Code": "CHN",
      "CollegeName": "WOMENS POLYTECHNIC, CHANDERNAGORE",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "GOVERNMENT",
      "Address1": "STRAND ROAD, P.O.- CHANDERNAGORE",
      "Address2": "DIST.-HOOGHLY, PIN - 712136" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 52,
      "Code": "WOM",
      "CollegeName": "WOMENS POLYTECHNIC, KOLKATA",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT",
      "Address1": "1\/1\/2 GARIAHAT ROAD (SOUTH)",
      "Address2": "JODHPUR PARK, KOLKATA-700068" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 53,
      "Code": "GIE",
-     "CollegeName": "Ghani Khan Choudhury Institute of Engineering &amp; Technology (Central Government)",
-     "District": "Malda",
+     "CollegeName": "Ghani Khan Choudhury Institute of Engineering & Technology (Central Government)",
+     "District": "MALDA",
      "CollegeType": "GOVERNMENT",
      "Address1": "Narayanpur, Near Popra More",
-     "Address2": "Dist - Malda, PIN-732141" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "Dist - MALDA, PIN-732141" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 54,
@@ -749,11 +802,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O. BAHADURPUR, P.S. : KALIACHAK",
      "Address2": "DIST. MALDA, PIN 732201" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 55,
@@ -763,11 +817,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-MALDA, DIST. - MALDA",
      "Address2": "PIN-732102" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 56,
@@ -777,11 +832,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "RATUA, MATIGANJ, P.O. - SAMSI",
      "Address2": "DIST. - MALDA, PIN - 732 139" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 57,
@@ -791,11 +847,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O. RAGHUNATHGANJ, P.S. JANGIPUR",
      "Address2": "MURSHIDABAD, PIN-742225" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 58,
@@ -805,11 +862,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-COSSIMBAZAR RAJ, DIST.-MURSHIDABAD",
      "Address2": "PIN-742102" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 59,
@@ -819,11 +877,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-SHEIKHPARA",
      "Address2": "MURSHIDABAD, PIN-742308" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 60,
@@ -833,11 +892,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "H. P. CHATTERJEE ROAD, P.O. - KRISHNANAGAR, DIST.-NADIA",
      "Address2": "PIN - 741101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 61,
@@ -847,11 +907,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "PO-BETAI, PS-TEHATTA",
      "Address2": "DIST. NADIA, PIN-741163" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 62,
@@ -861,11 +922,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "GAYESHPUR CHECK POST, PO-GAYESHPUR",
      "Address2": "PS-KALYANI, DIST. NADIA, PIN-741234" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 63,
@@ -875,11 +937,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "VILL. - GOBINDAPUR, P.O. - PLASSEY",
      "Address2": "P.S. - KALIGANJ, DIST. - NADIA, PIN - 741 156" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 64,
@@ -887,13 +950,14 @@
      "CollegeName": "RANAGHAT GOVERNMENT POLYTECHNIC",
      "District": "NADIA",
      "CollegeType": "GOVERNMENT",
-     "Address1": "PO &amp; PS RANAGHAT",
+     "Address1": "PO & PS RANAGHAT",
      "Address2": "DIST. NADIA, PIN-741201" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 65,
@@ -903,11 +967,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "BAGHMUNDU, P.O. PATHARDIH, P.S. BAGHMUNDI",
      "Address2": "PURILIA, PIN-723152" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "Website": "https://baghmundigovtpolytechnic.in/",
+     "Phone": "",
+     "Email": "bgmdpoly@gmail.com"
     },
     {
      "SlNo": 66,
@@ -917,11 +982,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "MADHUPUR, P.O-JITAN",
      "Address2": "PURULIA-723129" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 67,
@@ -931,11 +997,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.-VIVEKANANDA NAGAR, DIST.-PURULIA",
      "Address2": "PIN-723147" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 68,
@@ -945,11 +1012,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "SARBARIMORE, PO-NETURIA",
      "Address2": "DIST. PURULIA, PIN-723121" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 69,
@@ -957,13 +1025,14 @@
      "CollegeName": "GHATAL GOVERNMENT POLYTECHNIC",
      "District": "WEST MIDNAPORE",
      "CollegeType": "GOVERNMENT",
-     "Address1": "KONNAGAR, PO &amp; PS GHATAL",
+     "Address1": "KONNAGAR, PO & PS GHATAL",
      "Address2": "PASCHIM MIDNAPORE, PIN-721212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 70,
@@ -973,11 +1042,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O.- SEVAYATAN, P.S.- JHARGRAM",
      "Address2": "DIST.-PASCHIM MEDINIPORE, PIN-721514" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 71,
@@ -987,11 +1057,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "VILL-KHASJUNGLE, PO-ABAS, PS-KOTWALI",
      "Address2": "PASCHIM MEDINIPUR, PIN-721102" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 72,
@@ -1001,11 +1072,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "P.O. - RAMGARH, P.S. - LALGARH",
      "Address2": "DIST.-PASCHIM MEDINIPUR, PIN-721128" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 73,
@@ -1015,11 +1087,12 @@
      "CollegeType": "GOVERNMENT",
      "Address1": "KESHIARY, DIST.-PASCHIM MIDNAPORE",
      "Address2": "PIN - 721 133" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 74,
@@ -1029,39 +1102,42 @@
      "CollegeType": "GOVERNMENT SPONSORED",
      "Address1": "JAJIGRAM INDUSTRIAL COMPLEX",
      "Address2": "P.O.-KATWA, BURDWAN, PIN-713130" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "03453-256262",
+     "Email": "bit_katwa@yahoo.co.in"
     },
     {
      "SlNo": 75,
      "Code": "ADY",
      "CollegeName": "ADYAPEATH ANNADA POLYTECHNIC COLLEGE",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT SPONSORED",
      "Address1": "50, D.D. MONDAL GHAT ROAD, DAKSHINESWAR",
      "Address2": "KOLKATA-700076" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "033-25645566",
+     "Email": "adyapeathannadapolytechnic@gmail.com"
     },
     {
      "SlNo": 76,
      "Code": "BLG",
      "CollegeName": "RAMAKRISHNA MISSION SHILPAPITHA, BELGHARIA",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "GOVERNMENT SPONSORED",
      "Address1": "P.O.-BELGHARIA",
      "Address2": "KOLKATA - 700056" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 77,
@@ -1070,12 +1146,13 @@
      "District": "BANKURA",
      "CollegeType": "PRIVATE",
      "Address1": "SIROMONIPUR, PO + PS - BISHNUPUR",
-     "Address2": "DIST. - BANKURA, PIN - 722122?" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "DIST. - BANKURA, PIN - 722122" ,
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹37,000",
+     "Website": "http://bpie.org.in/",
+     "Phone": "9679297698",
+     "Email": "bpie_10@rediffmail.com"
     },
     {
      "SlNo": 78,
@@ -1085,25 +1162,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "BRAJA RADHA NAGAR, PO-GOSAIPUR, PS-BISHNUPUR",
      "Address2": "DIST. BANKURA, PIN-722122" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 79,
      "Code": "BET",
-     "CollegeName": "BASANTIKA INSTITUTE OF ENGINEERING &amp; TECHNOLOGY",
+     "CollegeName": "BASANTIKA INSTITUTE OF ENGINEERING & TECHNOLOGY",
      "District": "BIRBHUM",
      "CollegeType": "PRIVATE",
      "Address1": "P.O.-GANPUR, P.S.-MD. BAZAR",
      "Address2": "DIST-BIRBHUM,? PIN-731216" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹18,000",
+     "Website": "https://bietp.com/",
+     "Phone": "9434004063",
+     "Email": "bietganpur@gmail.com"
     },
     {
      "SlNo": 80,
@@ -1113,25 +1192,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "SAGAR, NEAR BKTPP, P.O.-HETAMPUR",
      "Address2": "DIST-BIRBHUM, PIN-731124" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "8001807884, 9831409215",
+     "Email": "president.bip@gmail.com"
     },
     {
      "SlNo": 81,
      "Code": "BTM",
-     "CollegeName": "BENGAL INSTITUTE OF TECHNOLOGY &amp; MANAGEMENT",
+     "CollegeName": "BENGAL INSTITUTE OF TECHNOLOGY & MANAGEMENT",
      "District": "BIRBHUM",
      "CollegeType": "PRIVATE",
      "Address1": "SANTINIKETAN BYPASS, P.O. DORANDA, P.S. ILAMBAZAR",
      "Address2": "BIRBHUM, PIN-731236" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "9007030104, 9007030148, 90078030162",
+     "Email": "director@bitm.org.in, examcell.bitm@gmail.com"
     },
     {
      "SlNo": 82,
@@ -1141,11 +1222,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "TASARKATA, HUSNABAD, P.O. - BARABAGAN, SURI",
      "Address2": "DIST. - BIRBHUM, PIN - 731103" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 83,
@@ -1155,11 +1237,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "LAMBODARPUR, SURI",
      "Address2": "BIRBHUM, PIN-731101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 84,
@@ -1169,11 +1252,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "VILL-TATARPUR, P.O.-MULUK (BOLPUR)",
      "Address2": "DIST.- BIRBHUM, PIN - 731204" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 85,
@@ -1183,25 +1267,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "J.P. AVENUE, SAGARBHANGA, DURGAPUR",
      "Address2": "DIST.-BURDWAN, PIN-713211" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "9434789201, 9434789202",
+     "Email": "info@absacademy.com"
     },
     {
      "SlNo": 86,
      "Code": "AIM",
-     "CollegeName": "ASANSOL INSTITUTE OF ENGINEERING &amp; MANAGEMENT",
+     "CollegeName": "ASANSOL INSTITUTE OF ENGINEERING & MANAGEMENT",
      "District": "BURDWAN",
      "CollegeType": "PRIVATE",
      "Address1": "BAGBANDI ROAD, P.O. KALIPAHARI",
      "Address2": "ASANSOL, BURDWAN, PIN-713339" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹49,500",
+     "Website": "https://www.aiemp.in/",
+     "Phone": "0341-6610306 / 6610300 / 6610302, 8001500263",
+     "Email": "admissionsaiem2015@gmail.com, infoaiem2015@gmail.com"
     },
     {
      "SlNo": 87,
@@ -1211,11 +1297,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "SHAHID SUKUMAR BANERJEE SARANI",
      "Address2": "BIDHAN NAGAR, DURGAPUR-713212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "Website": "https://www.bcpsr.ac.in/",
+     "Phone": "9331270550",
+     "Email": "skset_phar@rediffmail.com"
     },
     {
      "SlNo": 88,
@@ -1225,11 +1312,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "BUD BUD BY-PASS (NORTH), NH-2",
      "Address2": "DIST. - BURDWAN, PIN - 713403" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 89,
@@ -1239,11 +1327,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "DR. MEGHNAD SAHA SARANI",
      "Address2": "BIDHAN NAGAR, DURGAPUR - 713206" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 90,
@@ -1253,11 +1342,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "G.T. ROAD, RAJBANDH, DURGAPUR",
      "Address2": "DIST.- BURDWAN, PIN - 713212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 91,
@@ -1266,12 +1356,13 @@
      "District": "BURDWAN",
      "CollegeType": "PRIVATE",
      "Address1": "CITY CENTRE (PHASE-II), SURYA SEN SARANI (NEAR GANDHI MORE)",
-     "Address2": "DURGAPUR, DIST.-BURDWAN, PIN-713208?" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "DURGAPUR, DIST.-BURDWAN, PIN-713208" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 92,
@@ -1281,25 +1372,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "VILL.-GOBINDAPUR (NEAR GUSKARA), P.O.- KELETI, P.S.- AUSHGRAM",
      "Address2": "DIST.-BURDWAN, PIN-713128" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 93,
      "Code": "KIE",
-     "CollegeName": "KANAD INSTITUTE OF ENGINEERING &amp; MANAGEMENT",
+     "CollegeName": "KANAD INSTITUTE OF ENGINEERING & MANAGEMENT",
      "District": "BURDWAN",
      "CollegeType": "PRIVATE",
-     "Address1": "VILL &amp; P.O. MANKAR",
+     "Address1": "VILL & P.O. MANKAR",
      "Address2": "BURDWAN, PIN-713144" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 94,
@@ -1309,11 +1402,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "SHIBPU RROAD, P.O. MOLANDIGHI, P.S. KANKSA",
      "Address2": "DURGAPUR, BURDWAN, PIN-713212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 95,
@@ -1323,11 +1417,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "VILL. - CHANDIPUR, P.O. - ABHIRAMPUR",
      "Address2": "P.S. - AUSHGRAM, DIST. - BURDWAN, PIN - 713144" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 96,
@@ -1337,11 +1432,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "ARRAH, SHIBTALA, DURGAPUR",
      "Address2": "BURDWAN, PIN-713212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 97,
@@ -1349,13 +1445,14 @@
      "CollegeName": "RAJENDRANATH COLLEGE OF POLYTECHNIC",
      "District": "BURDWAN",
      "CollegeType": "PRIVATE",
-     "Address1": "VILL &amp; P.O. GOPALPUR, P.S. KANKSA, DURGAPUR",
+     "Address1": "VILL & P.O. GOPALPUR, P.S. KANKSA, DURGAPUR",
      "Address2": "BURDWAN, PIN-713212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 98,
@@ -1365,11 +1462,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "NACHAN ROAD, PO-KAMALPUR, DURGAPUR",
      "Address2": "BURDWAN, PIN-713204" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 99,
@@ -1379,11 +1477,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "P.O.-MALANDIGHI, P.S.-KANKSA",
      "Address2": "DURGAPUR - 713212" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 100,
@@ -1393,11 +1492,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "NEAR GANGPUR RAILWAY STATION, VILL+PO-JOTERAM",
      "Address2": "BURDWAN, PIN-713104" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 101,
@@ -1407,11 +1507,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "BEHIND BDO OFFICE, KANKSHA, PO-PANAGARH BAZAR",
      "Address2": "BURDWAN, PIN-713148" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 102,
@@ -1421,11 +1522,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "PHASE-II, CITY CENTRE, SOUTH G.T. ROAD",
      "Address2": "P.O.-DURGAPUR, BURDWAN, PIN-713208" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 103,
@@ -1435,25 +1537,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "HILL CART ROAD, SUKNA, SILIGURI",
      "Address2": "DARJEELING, PIN-734009" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 104,
      "Code": "GIT",
-     "CollegeName": "GLOBAL INSTITUTE OF SCIENCE &amp; TECHNOLOGY, HALDIA",
+     "CollegeName": "GLOBAL INSTITUTE OF SCIENCE & TECHNOLOGY, HALDIA",
      "District": "EAST MIDNAPORE",
      "CollegeType": "PRIVATE",
      "Address1": "ICARE COMPLEX, P.O.-HATIBERIA, HALDIA",
      "Address2": "PURBA MIDNAPORE, PIN-721657" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 105,
@@ -1463,486 +1567,521 @@
      "CollegeType": "PRIVATE",
      "Address1": "P.O. PATKATA, P.S. KOTWALI",
      "Address2": "JALPAIGURI, PIN-735133" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 106,
      "Code": "ABA",
      "CollegeName": "ABACUS INSTITUTE OF ENGINEERING AND MANAGEMENT",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "NATUNGRAM, MOGRA",
      "Address2": "DIST.-HOOGHLY, PIN-712148" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 107,
      "Code": "AMS",
      "CollegeName": "AMS COLLEGE OF POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "RANGAPUR, P.O. - NILGUNJ BAZAR",
      "Address2": "BARASAT, KOLKATA - 700121" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "033-68888690/ 68888545",
+     "Email": "sn.chaudhuri@amsgroup.org.in, ams.edu@amsgroup.org.in"
     },
     {
      "SlNo": 108,
      "Code": "BBT",
      "CollegeName": "BUDGE BUDGE INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "NISCHINTAPUR, BUDGE BUDGE",
      "Address2": "KOLKATA - 700137" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 109,
      "Code": "CIT",
      "CollegeName": "CALCUTTA INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "HOWRAH",
      "CollegeType": "PRIVATE",
      "Address1": "BANITALA, ULUBERIA",
      "Address2": "HOWRAH - 711316" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 110,
      "Code": "CAT",
      "CollegeName": "CAMELLIA INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "DIGBERIA, BADU ROAD",
      "Address2": "MADHYAMGRAM, KOLKATA-700129" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 111,
      "Code": "CIM",
-     "CollegeName": "CAMELLIA INSTITUTE OF TECHNOLOGY &amp; MANAGEMENT",
-     "District": "KNSHH",
+     "CollegeName": "CAMELLIA INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "HOOGHLY BAINCHEE, HALDER DIGHI, G.T. ROAD",
      "Address2": "P.O. BAINCHI, HOOGHLY, PIN-712134" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 112,
      "Code": "CSE",
-     "CollegeName": "CAMELLIA SCHOOL OF ENGINEERING &amp; TECHNOLOGY",
-     "District": "KNSHH",
+     "CollegeName": "CAMELLIA SCHOOL OF ENGINEERING & TECHNOLOGY",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "NADIBHAG, P.O. KAZIPARA",
      "Address2": "BARASAT, KOLKATA-700124" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 113,
      "Code": "CTM",
      "CollegeName": "CHANAKYA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
-     "District": "KNSHH",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "ULLON, PO RAMLOCHAN PUR",
      "Address2": "LAKSHMIKANTAPUR, SOUTH 24 PARGANAS - 743336" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 114,
      "Code": "SCS",
      "CollegeName": "DR. SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "540 DUM DUM ROAD, SURERMATH",
      "Address2": "KOLKATA-700074" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 115,
      "Code": "EPI",
      "CollegeName": "ELITE POLYTECHNIC INSTITUTE",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "S.T.K.K. LINK ROAD, MOGRA, BANDEL, (NEAR-13 NO. RAIL GATE)",
      "Address2": "DIST.-HOOGHLY, PIN-712148" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 116,
      "Code": "EIM",
-     "CollegeName": "ELITTE INSTITUTE OF ENGINEERING &amp; MANAGEMENT",
-     "District": "KNSHH",
+     "CollegeName": "ELITTE INSTITUTE OF ENGINEERING & MANAGEMENT",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "P.O.-KARNAMADHAVPUR (NEAR MOHISPOTA)",
      "Address2": "P.S.-GHOLA (SODEPUR), KOLKATA-700113" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 117,
      "Code": "GKC",
      "CollegeName": "GREATER KOLKATA COLLEGE OF &nbsp;ENGINEERING AND MANAGEMENT",
-     "District": "KNSHH",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "DUDHNAI, RAMNAGAR-II, P.S. BARUIPUR",
-     "Address2": "24 PARGANAS (S), PIN-743387" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "24 PARGANAS (SOUTH), PIN-743387" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 118,
      "Code": "GNT",
      "CollegeName": "GURU NANAK INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "157\/F, NILGUNJ ROAD, SODEPUR",
      "Address2": "PANIHATI, KOLKATA-700114" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 119,
      "Code": "JLD",
-     "CollegeName": "JLD COLLEGE OF ENGINEERING &amp; MANAGEMENT",
-     "District": "KNSHH",
+     "CollegeName": "JLD COLLEGE OF ENGINEERING & MANAGEMENT",
+     "District": "SOUTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "RAMDHARI, BELEGACHI GRAM PANCHAYAT, P.O. - DOLTALA GHOLA",
-     "Address2": "P.S. - BARUIPUR, DIST. - 24-PARGANAS(S)" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "P.S. - BARUIPUR, DIST. - 24-PARGANAS(SOUTH)" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 120,
      "Code": "KPC",
      "CollegeName": "KINGSTON POLYTECHNIC COLLEGE",
-     "District": "KNSHH",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
-     "Address1": "BERUNANPUKURIA, PO-MALIKAPUR, BARASAT, DIST.- 24-PARGANAS(N)",
+     "Address1": "BERUNANPUKURIA, PO-MALIKAPUR, BARASAT, DIST.- 24-PARGANAS(NORTH)",
      "Address2": "PIN-700126" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 121,
      "Code": "KPS",
      "CollegeName": "KPS INSTITUTE OF POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "FEEDER ROAD, P.O. BELMURI",
      "Address2": "HOOGHLY, PIN-712302" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 122,
      "Code": "MIE",
-     "CollegeName": "MODERN INSTITUTE OF ENGINEERING &amp; TECHNOLOGY",
-     "District": "KNSHH",
+     "CollegeName": "MODERN INSTITUTE OF ENGINEERING & TECHNOLOGY",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "BANDEL, BORAL-MALIPUR, RAJHAT",
      "Address2": "HOOGHLY, PIN-712123" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 123,
      "Code": "NAR",
      "CollegeName": "NARULA INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "81, NILGUNJ ROAD",
      "Address2": "AGARPARA, KOLKATA-700109" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 124,
      "Code": "NSE",
      "CollegeName": "NETAJI SUBHASH ENGINEERING COLLEGE",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "TECHNO CITY, GARIA",
      "Address2": "KOLKATA-700152" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 125,
      "Code": "PTC",
      "CollegeName": "PAILAN TECHNICAL CAMPUS",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "BENGAL PAILAN PARK, PHASE-II, AMGACHIA ROAD, P.O.-PAILAN",
      "Address2": "NEAR IIM JOKA, KOLKATA - 700104" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 126,
      "Code": "BLR",
-     "CollegeName": "RAMAKRISHNA MISSION SHILPAMANDIRA, BELUR",
-     "District": "KNSHH",
+     "CollegeName": "RAMAKRISHNA MISSION SHILPAMANDIRA",
+     "District": "HOWRAH",
      "CollegeType": "PRIVATE",
-     "Address1": "208, G. T. ROAD, P.O. - BELUR MATH",
+     "Address1": "208, G. T. ROAD, BELUR, P.O. - BELUR MATH",
      "Address2": "DIST. - HOWRAH, PIN - 711 202" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 127,
      "Code": "REF",
-     "CollegeName": "REGENT EDUCATION &amp; RESEARCH FOUNDATION GROUP OF INSTITUTIONS",
-     "District": "KNSHH",
+     "CollegeName": "REGENT EDUCATION & RESEARCH FOUNDATION GROUP OF INSTITUTIONS",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "Bara Kanthalia, Barrackpore, P.O.- Sewli Telinipara, P.S.-Titagarh, Dist.- North 24-Parganas, PIN" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 128,
      "Code": "RIS",
-     "CollegeName": "REGENT INSTITUTE OF SCIENCE &amp; TECHNOLOGY",
-     "District": "KNSHH",
+     "CollegeName": "REGENT INSTITUTE OF SCIENCE & TECHNOLOGY",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "BARA KANTHALIA, BARRACKPORE, P.O.-SEWLI TELINIPARA, P.S.-TITAGARH",
-     "Address2": "DIST.- 24- PARGANAS(N), PIN - 700 121" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "DIST.- 24-PARGANAS(NORTH), PIN - 700 121" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 129,
      "Code": "SIT",
      "CollegeName": "SAROJ MOHAN INSTITUTE OF TECHNOLOGY",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "GUPTIPARA, HOOGHLY",
      "Address2": "PIN-712512" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 130,
      "Code": "ATT",
-     "CollegeName": "SCM INSTITUTE OF ENGINEERING &amp; TECHNOLOGY",
-     "District": "KNSHH",
+     "CollegeName": "SCM INSTITUTE OF ENGINEERING & TECHNOLOGY",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "KAZI NAZRUL ISLAM AVENUE (VIP ROAD), KAIKHALI, P.O.-KOLKATA AIRPORT",
      "Address2": "KOLKATA - 700 052" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 131,
      "Code": "SRS",
-     "CollegeName": "SHREE RAMKRISHNA INSTITUTE OF SCIENCE &amp; TECHNOLOGY",
-     "District": "KNSHH",
+     "CollegeName": "SHREE RAMKRISHNA INSTITUTE OF SCIENCE & TECHNOLOGY",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "DAKSHIN GOBINDAPUR, P.S.-SONARPUR",
      "Address2": "KOLKATA-700145" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 132,
      "Code": "SCP",
      "CollegeName": "SOUTH CALCUTTA POLYTECHNIC",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "ATGHARA, P.O.-MADARAT",
      "Address2": "P.S.-BARUIPUR, KOLKATA - 700144" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 133,
      "Code": "SMT",
      "CollegeName": "ST. MARY'S TECHNICAL CAMPUS KOLKATA",
-     "District": "KNSHH",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "SAIBONA VILLAGE, NILGUNGE GRAM PANCHAYAT",
      "Address2": "PS-STATION ROAD, BARASAT, NORTH 24 PARGANAS, PIN-700126" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 134,
      "Code": "SKF",
      "CollegeName": "SUPREME KNOWLEDGE FOUNDATION GROUP OF INSTITUTIONS",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "1 KHAN ROAD, MANKUNDU STATION ROAD",
      "Address2": "MANKUNDU, HOOGHLY, PIN-712139" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 135,
      "Code": "SVI",
-     "CollegeName": "SWAMI VIVEKANANDA INSTITUTE OF SCIENCE &amp; TECHNOLOGY",
-     "District": "KNSHH",
+     "CollegeName": "SWAMI VIVEKANANDA INSTITUTE OF SCIENCE & TECHNOLOGY",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "DAKSHIN GOBINDAPUR, P.S.-SONARPUR",
      "Address2": "P.S. SONARPUR, KOLKATA-700145" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 136,
      "Code": "TPI",
      "CollegeName": "TECHNIQUE POLYTECHNIC INSTITUTE",
-     "District": "KNSHH",
+     "District": "HOOGHLY",
      "CollegeType": "PRIVATE",
      "Address1": "PANCHROKHI, P.O.-SUGANDHYA",
      "Address2": "DIST-HOOGHLY, PIN-712102" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 137,
      "Code": "BAT",
      "CollegeName": "TECHNO INTERNATIONAL BATANAGAR",
-     "District": "KNSHH",
+     "District": "KOLKATA",
      "CollegeType": "PRIVATE",
      "Address1": "B7-360 \/ NEW, WARD NO. 30, PUTKHALI",
      "Address2": "MAHESHTALA, KOLKATA-700141" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 138,
      "Code": "TIP",
      "CollegeName": "TECHNO MAIN SALT LAKE",
-     "District": "KNSHH",
+     "District": "NORTH 24 PARGANAS",
      "CollegeType": "PRIVATE",
      "Address1": "SALT LAKE, EM-4\/2, SECTOR-V",
      "Address2": "NORTH 24 PARGANAS, PIN-700091" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 139,
      "Code": "BIM",
-     "CollegeName": "BCARE INSTITUTE OF MANAGEMENT &amp; TECHNOLOGY",
+     "CollegeName": "BCARE INSTITUTE OF MANAGEMENT & TECHNOLOGY",
      "District": "MURSHIDABAD",
      "CollegeType": "PRIVATE",
      "Address1": "AMAR, P.O.-KANFALA, P.S.-NABAGRAM",
      "Address2": "DIST-MURSHIDABAD, PIN-742184" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "Website": "https://www.bimt.org.in/login_up.php",
+     "Phone": "9434378267, 7718359167, 9474801714",
+     "Email": "admin@bimt.org.in, shuda_08@rediffmail.com"
     },
     {
      "SlNo": 140,
@@ -1952,11 +2091,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "3\/20, GIRIJAPARA LANE, KHARGA, BERHAMPORE",
      "Address2": "MURSHIDABAD, PIN-742101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
-     "YearlyAvgFees": "",
-     "Website": "",
-     "Phone": ""
+     "YearlyAvgFees": "₹18,000",
+     "Website": "https://www.berhamporepolytechnic.org/",
+     "Phone": "9434071442, 9564278977",
+     "Email": "somen.bhb@gmail.com, bpc.bhb@gmail.com"
     },
     {
      "SlNo": 141,
@@ -1965,12 +2105,13 @@
      "District": "MURSHIDABAD",
      "CollegeType": "PRIVATE",
      "Address1": "NARASINGHAPUR, P.O.-SAGARPARA",
-     "Address2": "P.S.-JALANGI, DIST.-MURSHIDABAD, PIN-742306?" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "P.S.-JALANGI, DIST.-MURSHIDABAD, PIN-742306" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 142,
@@ -1980,11 +2121,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "P.O. BASANTAPUR, P.S. DUMKAL",
      "Address2": "DIST.-MURSHIDABAD, PIN-742406" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 143,
@@ -1993,12 +2135,13 @@
      "District": "MURSHIDABAD",
      "CollegeType": "PRIVATE",
      "Address1": "VILL-GOBINDAPUR, P.O.-JUGINDA",
-     "Address2": "P.S.-DOMKAL, DIST-MURSHIDABAD, PIN-742406?" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Address2": "P.S.-DOMKAL, DIST-MURSHIDABAD, PIN-742406" ,
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 144,
@@ -2008,11 +2151,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "VILL.-HAPANIA, P.O.-DAFAHAT",
      "Address2": "DIST.-MURSHIDABAD, PIN-742224" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 145,
@@ -2020,13 +2164,14 @@
      "CollegeName": "MINERVA POLYTECHNIC",
      "District": "MURSHIDABAD",
      "CollegeType": "PRIVATE",
-     "Address1": "VILL &amp; P.O. - AMRITAKUNDA, P.S.-NABAGRAM",
+     "Address1": "VILL & P.O. - AMRITAKUNDA, P.S.-NABAGRAM",
      "Address2": "DIST.-MURSHIDABAD, PIN-742136" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 146,
@@ -2036,11 +2181,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "VILL.-NARASINGHAPUR, P.O.-SAGARPARA",
      "Address2": "P.S.-JALANGI, DIST.-MURSHIDABAD, PIN-742306" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 147,
@@ -2050,11 +2196,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "BAGMARA, P.O.-DAKSHIN PARASHPUR, P.S.-JALANGI",
      "Address2": "DIST-MURSHIDABAD, PIN-742305" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 148,
@@ -2064,25 +2211,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "P.O. SAGARPARA, P.S. JALANGI",
      "Address2": "MURSHIDABAD, PIN-742306" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 149,
      "Code": "JET",
-     "CollegeName": "RPBM JIAGANJ COLLEGE OF ENGINEERING &amp; TECHNOLOGY",
+     "CollegeName": "RPBM JIAGANJ COLLEGE OF ENGINEERING & TECHNOLOGY",
      "District": "MURSHIDABAD",
      "CollegeType": "PRIVATE",
      "Address1": "HATIBAGAN, P.O.+P.S. - JIAGANJ",
      "Address2": "DIST.-MURSHIDABAD, PIN-742123" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 150,
@@ -2092,11 +2241,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "PALPARA MORE, NH-34, BHAT JANGLA, KRISHNAGAR",
      "Address2": "NADIA, PIN-741101" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 151,
@@ -2106,11 +2256,12 @@
      "CollegeType": "PRIVATE",
      "Address1": "BLOCK-A, PHASE-III, KALYANI",
      "Address2": "NADIA, PIN-741235" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 152,
@@ -2120,25 +2271,27 @@
      "CollegeType": "PRIVATE",
      "Address1": "BLOCK-A, PHASE-III, KALYANI",
      "Address2": "NADIA, PIN-741235" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 153,
      "Code": "IST",
-     "CollegeName": "INSTITUTE OF SCIENCE &amp; TECHNOLOGY",
+     "CollegeName": "INSTITUTE OF SCIENCE & TECHNOLOGY",
      "District": "WEST MIDNAPORE",
      "CollegeType": "PRIVATE",
      "Address1": "DHURABILA, DHAMKURIA, CHANDRAKONA TOWN",
      "Address2": "PASCHIM MIDNAPORE, PIN-721201" ,
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     },
     {
      "SlNo": 154,
@@ -2148,10 +2301,11 @@
      "CollegeType": "PRIVATE",
      "Address1": "VILL-BANKIBAND, PO-SEYEDPUR, PS-SALBONI",
      "Address2": "DIST. PASCHIM MEDINIPUR, PIN-721147",
-     "Cources": "Computer Science And Engineering,Mechanical Engineering,Electrical Engineering,Civil Engineering,Electronics and Telecommunication,Automobile Engineering,Chemical Engineering,Material And Packaging Engineering",
+     "Cources": "",
      "CutOff": "",
      "YearlyAvgFees": "",
      "Website": "",
-     "Phone": ""
+     "Phone": "",
+     "Email": ""
     }
 ]

@@ -21,3 +21,11 @@
 .table-responsive {
     max-height:4000px;
 }
+
+.college-info-p{
+    color:rgb(1, 122, 17);
+    margin-bottom: 18px !important;
+}
+.get-college-info{
+    cursor: pointer;
+}

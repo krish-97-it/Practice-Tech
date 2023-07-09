@@ -47,19 +47,36 @@
                 <div class="row">
                     <div class="col-md-12 table-responsive">
                         <table border="1" cellpadding="6" class="table table-bordered table-striped w-auto">
-                            <thead>
+                            <thead id="custom-table-head" class="custom-table-head" load-table-heading>
                                 <tr>
                                     <th>Sl No.</th>
                                     <th>Code</th>
                                     <th>College Name</th>
                                     <th>College Type</th>
                                     <th>Course Offered</th>
-                                    <th>Cut Off</th>
                                     <th>District</th>
                                     <th>Address</th>
                                     <th>Phone</th>
                                     <th>Website</th>
                                     <th>Avg. Tution Fees</th>
+                                </tr>
+                            </thead>
+                            <thead id="filter-table-head" class="filter-table-head" load-table-heading>
+                                <tr role="row">
+                                    <th rowspan="2" colspan="1" aria-label="Sl No.">Sl No.</th>
+                                    <th rowspan="2" colspan="1" aria-label="Institute">Institute</th>
+                                    <th rowspan="2" colspan="1" aria-label="Branch">Branch</th>
+                                    <th rowspan="2" colspan="1" aria-label="Type">Type</th>
+                                    <th rowspan="2" colspan="1" aria-label="Total Available Seats" aria-sort="ascending">Total Available Seats</th>
+                                    <th colspan="12" style="text-align: center;" rowspan="1">STATE QUOTA CUT-OFF RANK - 2021<br>(Rank shown below are General Rank)</th>
+                                </tr>
+                                <tr role="row">
+                                    <th rowspan="1" colspan="1" aria-label="GEN">GEN</th>
+                                    <th rowspan="1" colspan="1" aria-label="SC">SC</th>
+                                    <th rowspan="1" colspan="1" aria-label="ST">ST</th>
+                                    <th rowspan="1" colspan="1" aria-label="OBC-">OBC-A</th>
+                                    <th rowspan="1" colspan="1" aria-label="OBC-">OBC-B</th>
+                                    <th rowspan="1" colspan="1" aria-label="PC">PC</th>
                                 </tr>
                             </thead>
                             <tbody id="custom-data-table" view-data-table>
@@ -71,7 +88,7 @@
             </div>
             <!-- Closing Result Table -->
 
-            <!-- Modal -->
+            <!-- Rank predictor modal to take input from user -->
             <div class="modal fade" id="myModal" role="dialog" data-backdrop="static" data-keyboard="false">
                 <div class="modal-dialog">
                     <!-- Modal content-->
@@ -92,27 +109,12 @@
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <!-- <div class="required-asterisk"><span>*</span></div> -->
-                                                    <label>Expected Rank</label>
-                                                    <input class="form-control" type="text" maxlength="3"
-                                                        name="expectedRank" placeholder="Expected Score upto 300">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="form-group">
                                                     <label>College Type</label>
                                                     <select name="collegeType" class="form-control">
                                                         <option value="" default selected>Any</option>
                                                         <option value="GOVERNMENT">Government</option>
                                                         <option value="PRIVATE">Private</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label>College Preference</label>
-                                                    <select name="collegeList" class="form-control">
-                                                        <option value="" default selected>Any</option>
+                                                        <option value="GOVERNMENT SPONSORED">Government Sponsored</option>
                                                     </select>
                                                 </div>
                                             </div>
@@ -124,64 +126,95 @@
                                                     </select>
                                                 </div>
                                             </div>
+                                            <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label>College Preference</label>
+                                                    <select name="collegeList" class="form-control" id='college-list'>
+                                                        <option value="" default selected>Any</option>
+                                                    </select>
+                                                </div>
+                                            </div>
                                             <div class="col-md-12 expected-percentile-btn" style="text-align:center; margin-top: 20px;">
-                                                <button type="button" class="btn" style="background-color:purple; color:white; padding:6px 20px !important;" data-search-btn>Search</button>
-                                                <button type="button" class="btn" style="background-color:#0a9f06; color:white; padding:6px 20px !important;" data-view-full-list>View All</button>
+                                                <button type="button" class="btn" style="background-color:purple; color:white; padding:6px 20px !important;" data-next-btn>View Cut-Off</button>
+                                                <button type="button" class="btn" style="background-color:orange; color:white; padding:6px 20px !important;" data-search-college>Search A College</button>
+                                            </div>
+                                            <div class="col-md-12" style="color:red; text-align: center; font-weight:600;">
+                                                <span show-error-msg></span>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="item register page">
+                                    <div class="item subject-rank">
                                         <div class="row">
-                                            <div class="col-md-12">
-                                                <div class="form-group name-form-group" data-name-field="">
-                                                    <div class="required-asterisk"><span>*</span></div>
-                                                    <input id="fullName" name="name" class="form-control" type="text"
-                                                        placeholder="Name" value="" autocomplete="off" size="30"
-                                                        maxlength="245" required="required">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-12">
-                                                <div class="form-group name-form-group" data-name-field="">
-                                                    <div class="required-asterisk"><span>*</span></div>
-                                                    <input id="fullName" name="name" class="form-control" type="text"
-                                                        placeholder="Name" value="" autocomplete="off" size="30"
-                                                        maxlength="245" required="required">
-                                                </div>
-                                            </div>
                                             <div class="col-md-6">
-                                                <div class="form-group name-form-group" data-name-field="">
-                                                    <div class="required-asterisk"><span>*</span></div>
-                                                    <input id="fullName" name="name" class="form-control" type="text"
-                                                        placeholder="Name" value="" autocomplete="off" size="30"
-                                                        maxlength="245" required="required">
+                                                <div class="form-group">
+                                                    <label>Enter Your Rank</label>
+                                                    <input class="form-control" type="text" maxlength="5" name="user-rank" placeholder="Expected Score upto 300" value="">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <div class="required-asterisk"><span>*</span></div>
-                                                    <div class="select-input-box">
-                                                        <select class="form-control grade-dropdown" name="grade" data-state="" required="">
-                                                            <option value="" disabled selected>Grade</option>
-                                                            <option value="1">Class 1</option>
-                                                            <option value="2">Class 2</option>
-                                                            <option value="3">Class 3</option>
-                                                            <option value="4">Class 4</option>
-                                                            <option value="5">Class 5</option>
-                                                            <option value="6">Class 6</option>
-                                                            <option value="7">Class 7</option>
-                                                            <option value="8">Class 8</option>
-                                                            <option value="9">Class 9</option>
-                                                            <option value="10">Class 10</option>
-                                                            <option value="11">Class 11</option>
-                                                            <option value="12">Class 12</option>
-                                                        </select>
-                                                    </div>
+                                                    <label>Rank Type</label>
+                                                    <select name="rank-type" class="form-control">
+                                                        <option value="" default selected>Any</option>
+                                                        <option value="GEN">General</option>
+                                                        <option value="SC">SC</option>
+                                                        <option value="ST">ST</option>
+                                                        <option value="OBCA">OBC-A</option>
+                                                        <option value="OBCB">OBC-B</option>
+                                                        <option value="PC">PC</option>
+                                                    </select>
                                                 </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label>Select Subject</label>
+                                                    <select name="subjectList" class="form-control">
+                                                        <option value="" default selected>Any</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 expected-percentile-btn" style="text-align:center; margin-top: 20px;">
+                                                <button type="button" class="btn" style="background-color:purple; color:white; padding:6px 20px !important;" data-back-btn>Back</button>
+                                                <button type="button" class="btn" style="background-color:blue; color:white; padding:6px 20px !important;" data-predict-btn>Next</button>
+                                            </div>
+                                            <div class="col-md-12" style="color:red; text-align: center; font-weight:600;">
+                                                <span error-msg-rank></span>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="item item-result-page">
+                                    <div class="item registe-page">
                                         <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group name-form-group" data-name-field="">
+                                                    <div><label>Full Name</label><span class="required-asterisk" style="color:red;">*</div>
+                                                    <input id="fullName" name="user-name" class="form-control" type="text" placeholder="Name" value="" autocomplete="off" size="30" maxlength="245" required="required">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <div class="form-group name-form-group" data-name-field="">
+                                                    <div><label>Phone</label><span class="required-asterisk" style="color:red;">*</div>
+                                                    <input id="userPhone" name="user-phone" class="form-control" type="tel" pattern="[789][0-9]{9}" placeholder="Phone No." value="" autocomplete="off" maxlength="10" required="required">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <div class="form-group name-form-group" data-name-field="">
+                                                    <div><label>Email</label><span class="required-asterisk" style="color:red;">*</div>
+                                                    <input id="email-id" name="user-email" class="form-control" type="text" placeholder="Email-id" value="" autocomplete="off" maxlength="245" required="required">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <div class="form-group name-form-group" data-name-field="">
+                                                    <div><label>Address</label><span class="required-asterisk" style="color:red;">*</div>
+                                                    <input id="address" name="user-address" class="form-control" type="text" placeholder="Address" value="" autocomplete="off" maxlength="245" required="required">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 expected-percentile-btn" style="text-align:center; margin-top: 20px;">
+                                                <button type="button" class="btn" style="background-color:purple; color:white; padding:6px 20px !important;" data-back-btn>Back</button>
+                                                <button type="button" class="btn" style="background-color:purple; color:white; padding:6px 20px !important;" data-search-btn>Submit</button>
+                                            </div>
+                                            <div class="col-md-12" style="color:red; text-align: center; font-weight:600;">
+                                                <span show-error-msg-two></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -190,11 +223,17 @@
 
                         <!-- Modal footer -->
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-clear-btn>Clear</button>
+                        <button type="button" class="btn" style="background-color:#0a9f06; color:white; padding:6px 20px !important;" data-view-full-list>College Lists</button>
+                        <button type="button" class="btn" style="background-color:red; color:white; padding:6px 20px !important;" data-clear-btn>Clear</button>
                         </div>
 
                     </div>
                 </div>
+            </div>
+
+            <!-- College Info Modal -->
+            <div class="modal fade" id="collegeInfo" role="dialog" data-backdrop="static" data-keyboard="false" modal-content-college-Info>
+                <!-- append from js -->
             </div>
 
             <!-- fixed floater btn -->
