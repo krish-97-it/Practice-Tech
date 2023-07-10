@@ -29,3 +29,18 @@
 .get-college-info{
     cursor: pointer;
 }
+.required-asterisk, .input-error-msg{
+    color:red;
+}
+.input-error{
+    border: 1px solid red;
+}
+.input-valid{
+    border: 1px solid green;
+}
+.input-error-msg{
+    font-size: 12px;
+}
+.college-info-p{
+    max-width: 500px !important;
+}

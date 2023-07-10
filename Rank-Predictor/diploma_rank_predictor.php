@@ -109,8 +109,8 @@
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label>College Type</label>
-                                                    <select name="collegeType" class="form-control">
+                                                    <label>College Type</label><span class="required-asterisk"><b>*</b></span>
+                                                    <select name="collegeType" class="form-control" onchange="COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(this,'','College type')" onblur="COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(this,'','College type')">
                                                         <option value="" default selected>Any</option>
                                                         <option value="GOVERNMENT">Government</option>
                                                         <option value="PRIVATE">Private</option>
@@ -147,14 +147,8 @@
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label>Enter Your Rank</label>
-                                                    <input class="form-control" type="text" maxlength="5" name="user-rank" placeholder="Expected Score upto 300" value="">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label>Rank Type</label>
-                                                    <select name="rank-type" class="form-control">
+                                                    <label>Rank Type</label><span class="required-asterisk"><b>*</b></span>
+                                                    <select name="rank-type" class="form-control" onchange="COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(this,'','Rank type/category')" onblur="COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(this,'','Rank type/category')">
                                                         <option value="" default selected>Any</option>
                                                         <option value="GEN">General</option>
                                                         <option value="SC">SC</option>
@@ -163,6 +157,12 @@
                                                         <option value="OBCB">OBC-B</option>
                                                         <option value="PC">PC</option>
                                                     </select>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>Enter Your Rank</label><span class="required-asterisk"><b>*</b></span>
+                                                    <input class="form-control" type="text" maxlength="5" name="user-rank" onchange="COLLEGE_BRANCH_PREDICTOR.numericValidation(this)" onblur="COLLEGE_BRANCH_PREDICTOR.numericValidation(this)" placeholder="Enter Your Rank" value="">
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
@@ -186,26 +186,26 @@
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <div class="form-group name-form-group" data-name-field="">
-                                                    <div><label>Full Name</label><span class="required-asterisk" style="color:red;">*</div>
-                                                    <input id="fullName" name="user-name" class="form-control" type="text" placeholder="Name" value="" autocomplete="off" size="30" maxlength="245" required="required">
+                                                    <div><label>Full Name</label><span class="required-asterisk">*</span></div>
+                                                    <input id="fullName" name="user-name" class="form-control" type="text" placeholder="Name" onchange="COLLEGE_BRANCH_PREDICTOR.nameValidation(this)" onblur="COLLEGE_BRANCH_PREDICTOR.nameValidation(this)" value="" autocomplete="off" maxlength="245"  required="required">
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group name-form-group" data-name-field="">
-                                                    <div><label>Phone</label><span class="required-asterisk" style="color:red;">*</div>
-                                                    <input id="userPhone" name="user-phone" class="form-control" type="tel" pattern="[789][0-9]{9}" placeholder="Phone No." value="" autocomplete="off" maxlength="10" required="required">
+                                                    <div><label>Phone</label><span class="required-asterisk">*</span></div>
+                                                    <input id="userPhone" name="user-phone" class="form-control" type="tel" pattern="[789][0-9]{9}" placeholder="Phone No." onchange="COLLEGE_BRANCH_PREDICTOR.phoneValidation(this)" onblur="COLLEGE_BRANCH_PREDICTOR.phoneValidation(this)" value="" autocomplete="off" maxlength="10" required="required">
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group name-form-group" data-name-field="">
-                                                    <div><label>Email</label><span class="required-asterisk" style="color:red;">*</div>
-                                                    <input id="email-id" name="user-email" class="form-control" type="text" placeholder="Email-id" value="" autocomplete="off" maxlength="245" required="required">
+                                                    <div><label>Email</label><span class="required-asterisk">*</span></div>
+                                                    <input id="email-id" name="user-email" class="form-control" type="text" placeholder="Email-id" onchange="COLLEGE_BRANCH_PREDICTOR.emailValidation(this,'true')" onblur="COLLEGE_BRANCH_PREDICTOR.emailValidation(this,'true')" value="" autocomplete="off" maxlength="245" required="required">
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group name-form-group" data-name-field="">
-                                                    <div><label>Address</label><span class="required-asterisk" style="color:red;">*</div>
-                                                    <input id="address" name="user-address" class="form-control" type="text" placeholder="Address" value="" autocomplete="off" maxlength="245" required="required">
+                                                    <div><label>Address</label><span class="required-asterisk">*</span></div>
+                                                    <input id="address" name="user-address" class="form-control" type="text" placeholder="Address" onchange="COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(this,'','Address')" onblur="COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(this,'','Address')" value="" autocomplete="off" maxlength="245" required="required">
                                                 </div>
                                             </div>
                                             <div class="col-md-12 expected-percentile-btn" style="text-align:center; margin-top: 20px;">

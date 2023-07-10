@@ -1,7 +1,121 @@
 var COLLEGE_BRANCH_PREDICTOR = {
     collegeDetailsJsonURL: "/PRACTICE-TECH/Rank-Predictor/js/diploma_rank_prediictor/college_details.json",
     collegeCutOffJsonURL: "/PRACTICE-TECH/Rank-Predictor/js/diploma_rank_prediictor/cutoff_data_2021.json",
-    apiUrl: "/PRACTICE-TECH/Rank-Predictor/custom_api/create_update_user_data.php"
+    apiUrl: "/PRACTICE-TECH/Rank-Predictor/custom_api/create_update_user_data.php",
+
+    nameValidation : function(ele,error_msg_key,errorMessage){
+        var sel = jQuery(ele);
+        var sel_value = sel.val().trim();
+        var keyName = error_msg_key ? error_msg_key : 'Name';
+        var msg = '';
+        var reg_exp = /^[a-zA-Z][a-zA-Z\-\ \.]{2,}$/i;
+        sel.siblings('.input-error-msg').remove();
+        if (!sel_value || sel_value === null) {
+            msg = keyName + ' is required.';
+        } else if (sel_value.length <= 2) {
+            msg = 'Name should be minimum 3 characters.';
+        } else if (!sel_value.match(reg_exp)) {
+            msg = errorMessage ? errorMessage : 'Accepts alphabets only.';
+        } else {
+            msg = '';
+        }
+        if (msg) {
+            sel.addClass('input-error').removeClass('input-valid');
+            sel.after('<div class="input-error-msg">' + msg + '</div>');
+            return false;
+        } else {
+            sel.removeClass('input-error');
+            sel.addClass('input-valid');
+            return true;
+        }
+    },
+
+    emailValidation : function(ele,isOptional,errorMessage){
+        var sel = jQuery(ele);
+        var sel_value = sel.val();
+        var msg = '';
+        var reg_exp = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,13}))$/;
+        sel.siblings('.input-error-msg').remove();
+        if (!isOptional && (!sel_value || sel_value === null)) {
+            msg = 'Email-id is required.';
+        } else if (sel_value && sel_value !== null && !sel_value.match(reg_exp)) {
+            msg = errorMessage ? errorMessage : 'Email-id is not valid.';
+        }
+        if (msg) {
+            sel.addClass('input-error').removeClass('input-valid');
+            sel.after('<div class="input-error-msg">' + msg + '</div>');
+            return false;
+        } else {
+            sel.removeClass('input-error');
+            !isOptional && sel.addClass('input-valid');
+            return true;
+        }
+    },
+
+    phoneValidation : function(ele,errorMessage){
+        var sel = jQuery(ele);
+        var sel_value = sel.val();
+        var msg = '';
+        var reg_exp = /^\d{10}$/;
+        sel.siblings('.input-error-msg').remove();
+        if (!sel_value || sel_value === null) {
+            msg = 'Mobile No. is required.';
+        } else if (!sel_value.match(reg_exp)) {
+            msg = errorMessage ? errorMessage : 'Mobile No. should be 10 digits.';
+        }
+        if (msg) {
+            sel.addClass('input-error').removeClass('input-valid');
+            sel.after('<div class="input-error-msg">' + msg + '</div>');
+            return false;
+        } else {
+            sel.removeClass('input-error');
+            sel.addClass('input-valid');
+            return true;
+        }
+    },
+    numericValidation: function (ele, error_msg_key) {
+        var sel = jQuery(ele);
+        var sel_value = sel.val();
+        var msg = '';
+        var reg_exp = /^(|-?\d+)$/;
+        
+        sel.siblings('.input-error-msg').remove();
+        if (!sel_value || sel_value === null) {
+            msg = 'Rank is required.';
+        }
+         else if (!sel_value.match(reg_exp)) {
+            msg = 'Rank is required in numeric.';
+        } 
+        if (msg) {
+            sel.addClass('input-error').removeClass('input-valid');
+            sel.after('<div class="input-error-msg">' + msg + '</div>');
+            return false;
+        } else {
+            sel.removeClass('input-error');
+            sel.addClass('input-valid');
+            return true;
+        }
+    },
+    basicRequiredValidation : function(ele, form_id, error_msg_key) {
+        var sel = jQuery(ele);
+        var sel_value = sel.val();
+        var msg = '';
+        
+        sel.siblings('.input-error-msg').remove();
+        if (sel_value == '' || sel_value === null || sel_value == 'undefined') {
+            msg = error_msg_key+ ' is required.';
+        }
+
+        if (msg) {
+            sel.addClass('input-error').removeClass('input-valid');
+            sel.after('<div class="input-error-msg">' + msg + '</div>');
+            return false;
+        } else {
+            sel.removeClass('input-error');
+            sel.addClass('input-valid');
+            return true;
+        }
+    }
 }
 
 jQuery(document).ready(function(){
@@ -28,6 +142,8 @@ jQuery(document).ready(function(){
     var scroll_to_top               =   jQuery('[scroll-top-page]');
     var scroll_to_bottom            =   jQuery('[scroll-bottom-page]');
     var modal_content               =   jQuery('[modal-content-college-Info]');
+    var validationFormFlag          =   true;
+    var validationFirstCarousel     =   true;
 
     var college_details_data,collegeListJSON,temp_html='',distListJSON,data_address,college_listData;
     var final_data = new Array(), distListArray = new Array(), subjectArray = new Array(), filtered_data = new Array(), CollegeSubjectArray = new Array();
@@ -172,20 +288,28 @@ jQuery(document).ready(function(){
             jQuery(error_msg).empty();
             jQuery(error_msg_two).empty();
             jQuery(error_msg_rank).empty();
-            if(college_type.val() != '' && district_list.val() != ''){
-                var college_list_length = jQuery('#college-list option').length;
-                if(college_list_length > 1){
+            if(!COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(college_type,'','College type')){
+                validationFirstCarousel = false;
+            }else{
+                validationFirstCarousel = true;
+            }
+
+            if(validationFirstCarousel == true){
+                if(college_type.val() != '' && district_list.val() != ''){
+                    var college_list_length = jQuery('#college-list option').length;
+                    if(college_list_length > 1){
+                        jQuery('#expected-percentile-carousel').carousel('next');
+                        getCollegeData();
+                    }
+                    else{
+                        jQuery(error_msg).append('No college found for that selected college type and district');
+                    }
+                }else if(college_type.val() != ""){
                     jQuery('#expected-percentile-carousel').carousel('next');
                     getCollegeData();
                 }
-                else{
-                    jQuery(error_msg).append('No college found for that selected college type and district');
-                }
-            }else if(college_type.val() != ""){
-                jQuery('#expected-percentile-carousel').carousel('next');
-                getCollegeData();
             }else{
-                jQuery(error_msg).append('Please choose the college-type');
+                // jQuery(error_msg).append('*required field is missing*');
             }
         });
 
@@ -194,10 +318,13 @@ jQuery(document).ready(function(){
             final_data = [];
             jQuery(error_msg).empty();
             jQuery(error_msg_two).empty();
-            jQuery(error_msg_rank).empty()
-            jQuery.get(COLLEGE_BRANCH_PREDICTOR.collegeCutOffJsonURL).done(function (data){
-                cutoffData = data;
-                if(user_rank.val() != undefined && user_rank.val() != "" && rank_type.val() != ""){
+            jQuery(error_msg_rank).empty();
+
+            var validationFlag = validateRank();
+
+            if(validationFlag == true){
+                jQuery.get(COLLEGE_BRANCH_PREDICTOR.collegeCutOffJsonURL).done(function (data){
+                    cutoffData = data;
                     for(var j=0; j<filtered_data.length; j++){
                         for(var k = 0; k<cutoffData.length; k++){
                             if(filtered_data[j].CollegeName == cutoffData[k].Institute){
@@ -236,18 +363,19 @@ jQuery(document).ready(function(){
                     if(final_data.length > 0){
                         jQuery('#expected-percentile-carousel').carousel('next');
                     }else{
-                        jQuery(error_msg_rank).append('No record found');
+                        jQuery(error_msg_rank).append('No record found,try with other category rank or subject');
                     }
-                }else{
-                    jQuery(error_msg_rank).append('Rank and Rank type is mandatory');
-                }
-            })
+                })
+            }else{
+                // jQuery(error_msg_rank).append('Required Fields are missing');
+            }
         })
 
         // Once clicked on final submit btn
         jQuery(data_submit_btn).click(function(){
             jQuery(error_msg_two).empty();
-            if(user_name.val() != "" && user_name.val() != undefined && user_phone.val() != "" && user_phone.val() != undefined){
+            validationFormFlag  = registerFormValidator();
+            if(validationFormFlag == true){
                 jQuery.ajax({
                     type     :   "POST",
                     url      :   COLLEGE_BRANCH_PREDICTOR.apiUrl,
@@ -270,7 +398,7 @@ jQuery(document).ready(function(){
                     }
                 }); 
             }else{
-                jQuery(error_msg_two).append('Please enter your name and email');
+                // jQuery(error_msg_two).append('Required fields are missing');
             }
         })
         
@@ -325,6 +453,7 @@ jQuery(document).ready(function(){
         clearFormData : function(){
             jQuery('.form-control').val('');
             jQuery(error_msg, error_msg_two, error_msg_rank).empty();
+            jQuery('.form-control').removeClass('input-valid');
         },
 
         topFunction : function(){
@@ -499,6 +628,35 @@ jQuery(document).ready(function(){
                     })
                 })
             })
-        }
+        },
+    }
+
+    function registerFormValidator() {
+        var valiatorInput = false;
+        valiatorInput     = 
+                            COLLEGE_BRANCH_PREDICTOR.nameValidation(user_name) &&
+                            COLLEGE_BRANCH_PREDICTOR.emailValidation(user_email,'true') &&
+                            COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(user_address, '', 'Address') &&
+                            COLLEGE_BRANCH_PREDICTOR.phoneValidation(user_phone, '', 'Phone No.');
+                            
+        if(!valiatorInput) {
+            COLLEGE_BRANCH_PREDICTOR.nameValidation(user_name);
+            COLLEGE_BRANCH_PREDICTOR.emailValidation(user_email,'true');
+            COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(user_address, '', 'Address');
+            COLLEGE_BRANCH_PREDICTOR.phoneValidation(user_phone, '', 'Phone No.');
+        } 
+        return valiatorInput;
+    }
+
+    function validateRank(){
+        var valiatorInput = false;
+        valiatorInput     =     COLLEGE_BRANCH_PREDICTOR.numericValidation(user_rank) &&
+                                COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(rank_type, '', 'Rank type/category');
+        
+        if(!valiatorInput) {
+            COLLEGE_BRANCH_PREDICTOR.numericValidation(user_rank);
+            COLLEGE_BRANCH_PREDICTOR.basicRequiredValidation(rank_type, '', 'Rank type/category');
+        } 
+        return valiatorInput;
     }
 })
