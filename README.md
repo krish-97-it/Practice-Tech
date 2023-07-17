@@ -1,4 +1,4 @@
-This Project is build with Html/Php/Css/JavaScript/MySQL.
+This Project is build with Html/Php/Css/JavaScript/MySQL. Base branch is 'main'
 
 @CRUD-Operation - Here a connection is estabilished with frontend and backend db. 
 There is a form from where user will send data and in backend data will be saved. 
