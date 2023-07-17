@@ -3264,7 +3264,7 @@
     },
     {
     "SlNo": 252,
-    "Institute": "WOMENS POLYTECHNIC, CHANDERNAGORE",
+    "Institute": "WOMENS POLYTECHNIC (CHANDERNAGORE)",
     "Branch": "Architecture",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3277,7 +3277,7 @@
     },
     {
     "SlNo": 253,
-    "Institute": "WOMENS POLYTECHNIC, CHANDERNAGORE",
+    "Institute": "WOMENS POLYTECHNIC (CHANDERNAGORE)",
     "Branch": "Computer Science & Technology",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3290,7 +3290,7 @@
     },
     {
     "SlNo": 254,
-    "Institute": "WOMENS POLYTECHNIC, CHANDERNAGORE",
+    "Institute": "WOMENS POLYTECHNIC (CHANDERNAGORE)",
     "Branch": "Electronics & Tele-Communication Engineering",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3303,7 +3303,7 @@
     },
     {
     "SlNo": 255,
-    "Institute": "WOMENS POLYTECHNIC, KOLKATA",
+    "Institute": "WOMENS POLYTECHNIC",
     "Branch": "Architecture",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3316,7 +3316,7 @@
     },
     {
     "SlNo": 256,
-    "Institute": "WOMENS POLYTECHNIC, KOLKATA",
+    "Institute": "WOMENS POLYTECHNIC",
     "Branch": "Computer Science & Technology",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3329,7 +3329,7 @@
     },
     {
     "SlNo": 257,
-    "Institute": "WOMENS POLYTECHNIC, KOLKATA",
+    "Institute": "WOMENS POLYTECHNIC",
     "Branch": "Electronics & Tele-Communication Engineering",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3433,7 +3433,7 @@
     },
     {
     "SlNo": 265,
-    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA, BELGHARIA",
+    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA",
     "Branch": "Civil Engineering",
     "Type": "GOVERNMENT SPONSORED",
     "Total-Available-Seats": 57,
@@ -3446,7 +3446,7 @@
     },
     {
     "SlNo": 266,
-    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA, BELGHARIA",
+    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA",
     "Branch": "Electrical Engineering",
     "Type": "GOVERNMENT SPONSORED",
     "Total-Available-Seats": 57,
@@ -3459,7 +3459,7 @@
     },
     {
     "SlNo": 267,
-    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA, BELGHARIA",
+    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA",
     "Branch": "Electronics & Tele-Communication Engineering",
     "Type": "GOVERNMENT SPONSORED",
     "Total-Available-Seats": 42,
@@ -3472,7 +3472,7 @@
     },
     {
     "SlNo": 268,
-    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA, BELGHARIA",
+    "Institute": "RAMAKRISHNA MISSION SHILPAPITHA",
     "Branch": "Mechanical Engineering",
     "Type": "GOVERNMENT SPONSORED",
     "Total-Available-Seats": 57,
@@ -3667,7 +3667,7 @@
     },
     {
     "SlNo": 283,
-    "Institute": "WOMENS POLYTECHNIC, KOLKATA",
+    "Institute": "WOMENS POLYTECHNIC",
     "Branch": "3D Animation & Graphics",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 63,
@@ -3680,7 +3680,7 @@
     },
     {
     "SlNo": 284,
-    "Institute": "WOMENS POLYTECHNIC, KOLKATA",
+    "Institute": "WOMENS POLYTECHNIC",
     "Branch": "MODERN OFFICE PRACTICE & MANAGEMENT",
     "Type": "GOVERNMENT",
     "Total-Available-Seats": 32,
@@ -7538,5 +7538,83 @@
     "OBCA": "",
     "OBCB": "",
     "PC": ""
+    },
+    {
+        "SlNo": 581,
+        "Institute": "KALIMPONG GOVERNMENT POLYTECHNIC",
+        "Branch": "Mechanical Engineering",
+        "Type": "GOVERNMENT",
+        "Total-Available-Seats": 60,
+        "GEN": 10000,
+        "SC": "",
+        "ST": "",
+        "OBCA": "",
+        "OBCB": "",
+        "PC": ""
+    },
+    {
+        "SlNo": 582,
+        "Institute": "KALIMPONG GOVERNMENT POLYTECHNIC",
+        "Branch": "Electronics & Tele-Communication Engineering",
+        "Type": "GOVERNMENT",
+        "Total-Available-Seats": 60,
+        "GEN": 10000,
+        "SC": "",
+        "ST": "",
+        "OBCA": "",
+        "OBCB": "",
+        "PC": ""
+    },
+    {
+        "SlNo": 583,
+        "Institute": "KALIMPONG GOVERNMENT POLYTECHNIC",
+        "Branch": "Civil Engineering",
+        "Type": "GOVERNMENT",
+        "Total-Available-Seats": 60,
+        "GEN": 10000,
+        "SC": "",
+        "ST": "",
+        "OBCA": "",
+        "OBCB": "",
+        "PC": ""
+    },
+    {
+        "SlNo": 584,
+        "Institute": "MIRIK GOVERNMENT POLYTECHNIC",
+        "Branch": "Electronics & Tele-Communication Engineering",
+        "Type": "GOVERNMENT",
+        "Total-Available-Seats": 60,
+        "GEN": 10000,
+        "SC": "",
+        "ST": "",
+        "OBCA": "",
+        "OBCB": "",
+        "PC": ""
+    },
+    {
+        "SlNo": 585,
+        "Institute": "MIRIK GOVERNMENT POLYTECHNIC",
+        "Branch": "Computer Science & Technology",
+        "Type": "GOVERNMENT",
+        "Total-Available-Seats": 60,
+        "GEN": 10000,
+        "SC": "",
+        "ST": "",
+        "OBCA": "",
+        "OBCB": "",
+        "PC": ""
+    },
+    {
+        "SlNo": 586,
+        "Institute": "MIRIK GOVERNMENT POLYTECHNIC",
+        "Branch": "Travel & Tourism",
+        "Type": "GOVERNMENT",
+        "Total-Available-Seats": 60,
+        "GEN": 10000,
+        "SC": "",
+        "ST": "",
+        "OBCA": "",
+        "OBCB": "",
+        "PC": ""
     }
 ]
